@@ -3,8 +3,9 @@
 
   angular
     .module('infflow', [
-      'ngRoute', 'ngAnimate', 'infflow.api', 'infflow.landing',
-      'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets'
+      'ngRoute', 'ngAnimate', 'ngSanitize', 'infflow.api', 'infflow.landing',
+      'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets',
+      'infflow.filters'
     ])
     .config(configure)
     .controller('MainController', MainController);
@@ -64,6 +65,7 @@
           $('#connectButton').prop('disabled', true);
           $('#hashWall').prop('disabled', false);
           $('#signOut').prop('disabled', false);
+          go('hashwall');
         }
       });
     }

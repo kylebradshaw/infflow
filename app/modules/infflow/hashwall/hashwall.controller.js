@@ -21,6 +21,7 @@
     vm.getQuery = getQuery;
     vm.geo = null;
     vm.showCriteria = showCriteria;
+    vm.text = "An emotional ad that gives props to single moms on Father's Day. http://t.co/SP6B0M2yyd";
 
     twitterService.getTrends(woeid).then(function(response){
         vm.trends = response[0].trends;

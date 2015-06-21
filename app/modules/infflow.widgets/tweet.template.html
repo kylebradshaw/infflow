@@ -1,6 +1,6 @@
 <div>
   <img ng-src="{{vm.twt.user.profile_image_url.replace('normal', '200x200')}}"> {{vm.twt.user.screen_name}}
   <p>{{vm.twt.profile_background_color}}</p>
-  <p>{{vm.twt.text}}</p>
+  <p>{{vm.twt.text | processTwitterText}}</p>
   <small>Metrics RT?{{vm.twt.retweeted}} FAV?{{vm.twt.favorited}} CNT?{{vm.twt.user.followers_count}}</small>
 </div>

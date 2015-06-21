@@ -8,7 +8,7 @@
   'use strict';
 
   angular
-      .module('infflow.widgets')
+      .module('infflow.widgets', ['infflow.filters'])
       .directive('tweet', tweetDirective);
 
   function tweetDirective() {
@@ -16,7 +16,8 @@
       restrict: 'A',
       link: link,
       scope: {
-        twt: '='
+        twt: '=',
+        processTwitterText: '=filter'
       },
       transclude: true,
       templateUrl: 'modules/infflow.widgets/tweet.template.html',
@@ -36,6 +37,7 @@
 
   function TweetController($scope) {
     var vm = this;
+
   }
 
 }());

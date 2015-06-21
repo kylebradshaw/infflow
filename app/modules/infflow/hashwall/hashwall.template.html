@@ -3,6 +3,7 @@
     <div class="col-sm-12">
       <small ng-show="vm.ip">IP ADDRESS: {{vm.ip}}</small>
       <small ng-show="vm.geo">GEO: {{vm.geo.data}}</small>
+      <div>{{vm.text | processTwitterText}}</div>
     </div>
   </div>
   <div class="row">
@@ -32,7 +33,7 @@
   <div class="row">
     <div class="col-sm-12" ng-show="vm.tweets">
       <div ng-repeat="t in vm.tweets.statuses">
-        <div tweet twt="t"></div>
+        <div tweet twt="t" filter="processTwitterText"></div>
       </div>
     </div>
   </div>
