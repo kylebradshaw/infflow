@@ -32,12 +32,7 @@
   <div class="row">
     <div class="col-sm-12" ng-show="vm.tweets">
       <div ng-repeat="t in vm.tweets.statuses">
-        <div ng-show="{{t.retweeted || t.favorited || t.user.followers_count > 10000}}"  ng-style="{backgroundColor: '#' + t.user.profile_background_color}">
-          <img ng-src="{{t.user.profile_image_url.replace('normal', '200x200')}}"> {{t.user.screen_name}}
-          <p>{{t.profile_background_color}}</p>
-          <p>{{t.text}}</p>
-          <small>Metrics RT?{{t.retweeted}} FAV?{{t.favorited}} CNT?{{t.user.followers_count}}</small>
-        </div>
+        <div tweet twt="t"></div>
       </div>
     </div>
   </div>

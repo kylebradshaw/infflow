@@ -4,7 +4,7 @@
   angular
     .module('infflow', [
       'ngRoute', 'ngAnimate', 'infflow.api', 'infflow.landing',
-      'infflow.lost', 'infflow.hashwall', 'infflow.config'
+      'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets'
     ])
     .config(configure)
     .controller('MainController', MainController);

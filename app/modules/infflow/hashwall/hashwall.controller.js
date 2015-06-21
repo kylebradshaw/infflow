@@ -20,6 +20,7 @@
     vm.tweets = null;
     vm.getQuery = getQuery;
     vm.geo = null;
+    vm.showCriteria = showCriteria;
 
     twitterService.getTrends(woeid).then(function(response){
         vm.trends = response[0].trends;
@@ -61,6 +62,12 @@
 
     function onGetGeoError (error) {
       console.error(error, 'fail');
+    }
+
+    function showCriteria(t) {
+      if (t.retweeted || t.favorited || t.user.followers_count > 1000) {
+        return t;
+      }
     }
 
   }
