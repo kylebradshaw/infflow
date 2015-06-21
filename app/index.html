@@ -14,10 +14,22 @@
 </head>
 
 <body ng-controller="MainController as main">
-  <button ng-click="main.connectButton()" id="connectButton" class="btn btn-primary">Connect Twitter</button>
-  <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-primary">Hashwall</button>
-  <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a href="/" class="navbar-brand">INFFLOW</a>
+      </div>
+      <!-- <ul class="nav navbar-nav navbar-right"> -->
+        <form class="navbar-form navbar-right">
+          <button ng-click="main.connectButton()" id="connectButton" class="btn btn-link">Connect Twitter</button>
 
+          <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-link">Hashwall</button>
+
+          <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
+        </form>
+      <!-- </ul> -->
+    </div>
+  </nav>
   <div ng-cloak>
     <div ng-view></div>
   </div>
