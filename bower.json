@@ -1,0 +1,29 @@
+{
+  "name": "infflow",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kylebradshaw/infflow",
+  "authors": [
+    "Kyle Bradshaw <kyle.bradshaw@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-mocks": "~1.4.1",
+    "angular-animate": "~1.4.1",
+    "angular-route": "~1.4.1",
+    "jquery": "~2.1.4",
+    "oauth-js": "~0.4.3"
+  }
+}

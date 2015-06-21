@@ -1,0 +1,45 @@
+(function(){
+  'use strict';
+
+  angular
+      .module('infflow', [
+        'ngRoute', 'ngAnimate', 'infflow.api', 'infflow.landing',
+        'infflow.lost', 'infflow.hashwall', 'infflow.config'
+      ])
+      .config(configure)
+      .controller('MainController', MainController);
+
+  configure.$inject = ['$routeProvider', '$locationProvider'];
+  MainController.$inject = ['$route', '$routeParams', '$location'];
+
+  function configure ($routeProvider, $locationProvider) {
+    $locationProvider.html5Mode(true);
+    $locationProvider.hashPrefix('!');
+    $routeProvider
+      .when('/', routeConfig('landing'))
+      .when('/lost', routeConfig('lost'))
+      .when('/hashwall', routeConfig('hashwall'))
+      .otherwise({
+        redirectTo: '/lost'
+      })
+  }
+
+  function routeConfig(name) {
+    var capitalName = name.charAt(0).toUpperCase() + name.substring(1);
+    return {
+      controller: capitalName + 'Controller',
+      controllerAs: 'vm',
+      templateUrl: 'modules/infflow/' + name + '/' + name + '.template.html'
+    }
+  }
+
+  function MainController ($route, $routeParams, $location) {
+    var main = this;
+
+    main.route = $route;
+    main.routeParams = $routeParams;
+    main.location = $location;
+
+  }
+
+}());
