@@ -1,10 +1,22 @@
-html, body {
-  min-height: 100vh;
+@import "vars";
+@import "layout";
+@import "tweet";
+html,
+body {
+  // min-height: 100vh;
 }
+
 body {
   padding-top: 70px;
   font-family: 'Roboto';
 }
+
 .container {
   // min-height: 100vh;
+}
+
+.hashwall-container {
+  justify-content: center;
+  align-content: center;
+  align-items: center;
 }

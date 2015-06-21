@@ -32,8 +32,8 @@
   </div>
   <div class="row">
     <div class="col-sm-12" ng-show="vm.tweets">
-      <div ng-repeat="t in vm.tweets.statuses">
-        <div tweet twt="t" filter="processTwitterText"></div>
+      <div class="trends-container layout center-justified">
+        <div tweet twt="t" filter="processTwitterText" ng-repeat="t in vm.tweets.statuses"></div>
       </div>
     </div>
   </div>

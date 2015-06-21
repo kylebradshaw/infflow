@@ -65,7 +65,6 @@
           $('#connectButton').prop('disabled', true);
           $('#hashWall').prop('disabled', false);
           $('#signOut').prop('disabled', false);
-          go('hashwall');
         }
       });
     }

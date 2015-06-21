@@ -19,11 +19,12 @@
         twt: '=',
         processTwitterText: '=filter'
       },
-      transclude: true,
       templateUrl: 'modules/infflow.widgets/tweet.template.html',
       bindToController: true,
       controller: TweetController,
-      controllerAs: 'vm'
+      controllerAs: 'vm',
+      // transclude: true
+      replace: true
     }
     return directive;
 
@@ -33,11 +34,44 @@
 
   }
 
-  TweetController.$inject = ['$scope'];
+  TweetController.$inject = ['$scope', '$window'];
 
-  function TweetController($scope) {
+  function TweetController($scope, $window) {
     var vm = this;
 
+    vm.passMustard = passMustard;
+    vm.goTweet = goTweet;
+
+    function passMustard() {
+      if (vm.twt.user.profile_image_url && vm.twt.user.followers_count > 10) {
+        return true;
+      }
+    }
+
+    function goTweet(type, item) {
+      var url = 'https://twitter.com/intent/';
+      var id = item.id;
+
+      switch(type) {
+        case 'profile':
+          url += 'user?screen_name=' + item.user.screen_name;
+          break;
+        case 'reply':
+          url += 'tweet?in_reply_to=' + id;
+          break;
+        case 'retweet':
+          url += 'retweet?tweet_id=' + id;
+          break;
+        case 'favorite':
+          url += 'favorite?tweet_id=' + id;
+          break;
+        case 'follow':
+          url += 'follow?tweet_id=' + id;
+          break;
+      }
+
+      $window.open(url);
+    }
   }
 
 }());

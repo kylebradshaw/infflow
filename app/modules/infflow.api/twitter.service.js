@@ -49,7 +49,7 @@
 
     function getTrends(woeid) {
       var d = $q.defer();
-      var promise = auth.get('/1.1/trends/place.json?id='+woeid)
+      var promise = auth.get('/1.1/trends/place.json?&id='+woeid)
         .done(function(data){
           d.resolve(data);
         })
