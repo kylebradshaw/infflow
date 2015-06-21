@@ -16,7 +16,7 @@
       onReady: onReady,
       connect: connect,
       clearCache: clearCache,
-      getTweets: getTweets,
+      getQuery: getQuery,
       getTrends: getTrends
     };
 
@@ -47,9 +47,25 @@
       auth = false;
     }
 
-    function getTweets() {
-      console.log('TWEET!!');
+    function getTrends(woeid) {
+      var d = $q.defer();
+      var promise = auth.get('/1.1/trends/place.json?id='+woeid)
+        .done(function(data){
+          d.resolve(data);
+        })
+      return d.promise;
     }
+
+    function getQuery(search) {
+      // https://api.twitter.com/1.1/search/tweets.json
+      var d = $q.defer();
+      var promise = auth.get('/1.1/search/tweets.json?count=100&q='+search)
+        .done(function(data){
+          d.resolve(data);
+        })
+      return d.promise;
+    }
+
 
   }
 

@@ -1,1 +1,44 @@
-<p>{{vm.message}}</p>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <small ng-show="vm.ip">IP ADDRESS: {{vm.ip}}</small>
+      <small ng-show="vm.geo">GEO: {{vm.geo.data}}</small>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <h2>Search</h2>
+      <form class="form-inline" ng-submit="vm.getQuery()">
+        <div class="form-group">
+          <input class="form-control" ng-model="vm.query" type="text">
+          <button class="btn btn-default" type="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+    <div class="col-sm-6">
+      <h2>Popular Trends</h2>
+      <ul>
+        <li ng-model="trend" ng-repeat="t in vm.trends">
+          <a ng-click="vm.getQuery(t.query)" href>{{t.name}}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12" ng-show="vm.tweets">
+      <h2>Results</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12" ng-show="vm.tweets">
+      <div ng-repeat="t in vm.tweets.statuses">
+        <div ng-show="{{t.retweeted || t.favorited || t.user.followers_count > 10000}}"  ng-style="{backgroundColor: '#' + t.user.profile_background_color}">
+          <img ng-src="{{t.user.profile_image_url.replace('normal', '200x200')}}"> {{t.user.screen_name}}
+          <p>{{t.profile_background_color}}</p>
+          <p>{{t.text}}</p>
+          <small>Metrics RT?{{t.retweeted}} FAV?{{t.favorited}} CNT?{{t.user.followers_count}}</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

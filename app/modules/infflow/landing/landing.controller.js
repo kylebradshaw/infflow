@@ -11,29 +11,6 @@
 
     var vm = this;
 
-    vm.message = "Loose your shit!";
-    vm.go = go;
-
-    function go(where) {
-
-      console.log(where, ' where');
-
-      var dest = '/';
-
-      switch (where) {
-        case 'hashwall':
-          dest = '/hashwall';
-          break;
-        default:
-          break;
-      }
-
-      $timeout(function(){
-        $location.path(dest);
-      }, 0);
-
-    }
-
   }
 
 }());

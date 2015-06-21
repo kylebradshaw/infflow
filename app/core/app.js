@@ -1,20 +1,20 @@
-(function(){
+(function() {
   'use strict';
 
   angular
-      .module('infflow', [
-        'ngRoute', 'ngAnimate', 'infflow.api', 'infflow.landing',
-        'infflow.lost', 'infflow.hashwall', 'infflow.config'
-      ])
-      .config(configure)
-      .controller('MainController', MainController);
+    .module('infflow', [
+      'ngRoute', 'ngAnimate', 'infflow.api', 'infflow.landing',
+      'infflow.lost', 'infflow.hashwall', 'infflow.config'
+    ])
+    .config(configure)
+    .controller('MainController', MainController);
 
   configure.$inject = ['$routeProvider', '$locationProvider'];
-  MainController.$inject = ['$route', '$routeParams', '$location'];
+  MainController.$inject = ['$route', '$routeParams', '$location', 'twitterService'];
 
-  function configure ($routeProvider, $locationProvider) {
-    $locationProvider.html5Mode(true);
-    $locationProvider.hashPrefix('!');
+  function configure($routeProvider, $locationProvider) {
+    // $locationProvider.html5Mode(true);
+    // $locationProvider.hashPrefix('!');
     $routeProvider
       .when('/', routeConfig('landing'))
       .when('/lost', routeConfig('lost'))
@@ -33,12 +33,48 @@
     }
   }
 
-  function MainController ($route, $routeParams, $location) {
+  function MainController($route, $routeParams, $location, twitterService) {
     var main = this;
 
-    main.route = $route;
-    main.routeParams = $routeParams;
-    main.location = $location;
+    main.connectButton = connectButton;
+    main.signOut = signOut;
+    main.go = go;
+
+    twitterService.init();
+
+    function go(where) {
+
+      var dest = '/';
+
+      switch (where) {
+        case 'hashwall':
+          dest = '/hashwall';
+          break;
+        default:
+          break;
+      }
+
+      $location.path(dest);
+
+    }
+
+    function connectButton () {
+      twitterService.connect().then(function() {
+        if (twitterService.onReady()) {
+          $('#connectButton').prop('disabled', true);
+          $('#hashWall').prop('disabled', false);
+          $('#signOut').prop('disabled', false);
+        }
+      });
+    }
+
+    function signOut () {
+      twitterService.clearCache();
+      go();
+      $('#connectButton').prop('disabled', false);
+      $('#hashWall').prop('disabled', true);
+      $('#signOut').prop('disabled', true);
+    }
 
   }
 

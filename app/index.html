@@ -14,19 +14,14 @@
 </head>
 
 <body ng-controller="MainController as main">
+  <button ng-click="main.connectButton()" id="connectButton" class="btn btn-primary">Connect Twitter</button>
+  <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-primary">Hashwall</button>
+  <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
+
   <div ng-cloak>
     <div ng-view></div>
   </div>
-  <pre ng-hide="true">
-ROUTE
-{{main.route | json}}
 
-ROUTEPARAMS
-{{main.routeParams | json}}
-
-LOCATION
-{{main.location | json}}
-</pre>
   <script src="./bower_components/jquery/dist/jquery.js"></script>
   <script src="./bower_components/angular/angular.js"></script>
   <script src="./bower_components/angular-route/angular-route.js"></script>
@@ -34,6 +29,7 @@ LOCATION
   <script src="./modules/infflow/module.js"></script>
   <script src="./modules/infflow.api/module.js"></script>
   <script src="./modules/infflow.api/twitter.service.js"></script>
+  <script src="./modules/infflow.api/ip.service.js"></script>
   <script src="./modules/infflow.config/module.js"></script>
   <script src="./modules/infflow/landing/landing.controller.js"></script>
   <script src="./modules/infflow/lost/lost.controller.js"></script>
