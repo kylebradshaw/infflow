@@ -3,19 +3,22 @@
 
   angular
     .module('infflow', [
-      'ngRoute', 'ngAnimate', 'ngSanitize', 'infflow.api', 'infflow.landing',
-      'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets',
-      'infflow.filters'
+      'ngRoute', 'ngAnimate', 'ngSanitize', 'angular-loading-bar',
+      'infflow.api', 'infflow.landing', 'infflow.filters',
+      'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets'
     ])
     .config(configure)
     .controller('MainController', MainController);
 
-  configure.$inject = ['$routeProvider', '$locationProvider'];
+  configure.$inject = ['$routeProvider', '$locationProvider', 'cfpLoadingBarProvider'];
   MainController.$inject = ['$route', '$routeParams', '$location', 'twitterService'];
 
-  function configure($routeProvider, $locationProvider) {
+  function configure($routeProvider, $locationProvider, cfpLoadingBarProvider) {
     // $locationProvider.html5Mode(true);
     // $locationProvider.hashPrefix('!');
+
+    cfpLoadingBarProvider.includeSpinner = false;
+
     $routeProvider
       .when('/', routeConfig('landing'))
       .when('/lost', routeConfig('lost'))

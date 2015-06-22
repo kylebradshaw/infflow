@@ -30,8 +30,9 @@
 
     function getQuery(search) {
       if (!search) {
-        console.log(vm.query, 'exists?');
+        search = vm.query;
       }
+      search = window.encodeURIComponent(search);
       twitterService.getQuery(search).then(function(response){
         vm.tweets = response;
       }, function(error) {
@@ -57,7 +58,7 @@
     // get geoJSON
     function onGetGeoSuccess (response) {
 
-      console.log(response, 'geosuccess');
+      //console.log(response, 'geosuccess');
     }
 
     function onGetGeoError (error) {

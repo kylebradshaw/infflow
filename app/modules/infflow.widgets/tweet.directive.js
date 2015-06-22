@@ -29,7 +29,7 @@
     return directive;
 
     function link(scope, element, attrs){
-      console.log(scope, element, attrs, 'tweet');
+      //console.log(scope, element, attrs, 'tweet');
     }
 
   }
@@ -50,7 +50,7 @@
 
     function goTweet(type, item) {
       var url = 'https://twitter.com/intent/';
-      var id = item.id;
+      var id = item.id_str;
 
       switch(type) {
         case 'profile':

@@ -11,14 +11,27 @@
 }
 
 .tweet-box {
-  float: left;
+  overflow: hidden;
+  flex-basis: 300px;
+  min-width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 4.5px;
+  border-radius: 34px;
+  padding: 10px;
   margin: 10px;
-  width: 300px;
+  background-color: rgba(255, 255, 255, 0.8);
+
+  [ng-click] {
+    &:hover {
+      color: $color-twitterBlue;
+    }
+    cursor: pointer;
+  }
   .tweet-profile {
     flex-basis: 60px;
     text-align: center;
     margin-right: 10px;
     p {
+      text-overflow: ellipsis;
       font-size: 11px;
       font-weight: bold;
       margin: 5px 0;
@@ -26,6 +39,8 @@
   }
   .tweet-content {
     flex-basis: 230px;
+    position: relative;
+    padding-bottom: 30px;
   }
   img {
     max-height: 48px;
@@ -38,6 +53,8 @@
     line-height: 1.2;
   }
   .bar {
+    position: absolute;
+    bottom: 0;
     ul {
       list-style: none;
       margin: 0;

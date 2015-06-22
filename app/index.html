@@ -5,42 +5,36 @@
   <base href="/">
   <meta charset="UTF-8">
   <title>INFFLOW</title>
-
   <script src="./bower_components/oauth-js/dist/oauth.min.js"></script>
-
   <link rel="stylesheet" href="./assets/styles/normalize.min.css">
   <link rel="stylesheet" href="./assets/styles/bootstrap.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="./assets/styles/main.css">
 </head>
 
-<body class="fullbleed" ng-controller="MainController as main">
+<body ng-controller="MainController as main">
   <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
+    <div class="container-fluid">
       <div class="navbar-header">
         <a href="/" class="navbar-brand">INFFLOW</a>
       </div>
-      <!-- <ul class="nav navbar-nav navbar-right"> -->
-        <form class="navbar-form navbar-right">
-          <button ng-click="main.connectButton()" id="connectButton" class="btn btn-link">Connect Twitter</button>
-
-          <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-link">Hashwall</button>
-
-          <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
-        </form>
-      <!-- </ul> -->
+      <form class="navbar-form navbar-right">
+        <button ng-click="main.connectButton()" id="connectButton" class="btn btn-link">Connect Twitter</button>
+        <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-link">Hashwall</button>
+        <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
+      </form>
     </div>
   </nav>
   <div ng-cloak>
     <div ng-view></div>
   </div>
-
   <script src="./assets/scripts/util.js"></script>
   <script src="./bower_components/jquery/dist/jquery.js"></script>
   <script src="./bower_components/angular/angular.js"></script>
   <script src="./bower_components/angular-route/angular-route.js"></script>
   <script src="./bower_components/angular-animate/angular-animate.js"></script>
   <script src="./bower_components/angular-sanitize/angular-sanitize.js"></script>
+  <script src="./bower_components/angular-loading-bar/build/loading-bar.min.js"></script>
   <script src="./modules/infflow/module.js"></script>
   <script src="./modules/infflow.api/module.js"></script>
   <script src="./modules/infflow.api/twitter.service.js"></script>

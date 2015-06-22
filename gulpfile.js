@@ -29,7 +29,8 @@ gulp.task('serve', ['sass'], function() {
     server: './app'
   });
 
-  gulp.watch('./app/assets/styles/*.scss', ['sass']);
+  gulp.watch(paths.styles.files, ['sass']);
+  // gulp.watch(paths.scripts, ['jshint']);
   gulp.watch(['./app/*.html', './app/**/*.js']).on('change', browserSync.reload);
 
 });
