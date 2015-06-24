@@ -47,7 +47,8 @@
       var ipRx = /(\d|[1-9]\d|1\d\d|2([0-4]\d|5[0-5]))\.(\d|[1-9]\d|1\d\d|2([0-4]\d|5[0-5]))\.(\d|[1-9]\d|1\d\d|2([0-4]\d|5[0-5]))\.(\d|[1-9]\d|1\d\d|2([0-4]\d|5[0-5]))$/gim;
       vm.ip = response.data.match(ipRx)[0];
       if (vm.ip) {
-        ipService.getGeo().then(onGetGeoSuccess, onGetGeoError);
+        // too long to resolve
+        // ipService.getGeo().then(onGetGeoSuccess, onGetGeoError);
       }
     }
 

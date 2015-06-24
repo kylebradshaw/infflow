@@ -43,8 +43,13 @@
     main.connectButton = connectButton;
     main.signOut = signOut;
     main.go = go;
+    main.signedIn = false;
 
     twitterService.init();
+
+    function setSignIn(bool) {
+      main.signedIn = bool;
+    }
 
     function go(where) {
 
@@ -68,16 +73,18 @@
           $('#connectButton').prop('disabled', true);
           $('#hashWall').prop('disabled', false);
           $('#signOut').prop('disabled', false);
+          setSignIn(true);
         }
       });
     }
 
     function signOut () {
       twitterService.clearCache();
-      go();
       $('#connectButton').prop('disabled', false);
       $('#hashWall').prop('disabled', true);
       $('#signOut').prop('disabled', true);
+      setSignIn(false);
+      go();
     }
 
   }

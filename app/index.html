@@ -16,12 +16,12 @@
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a href="/" class="navbar-brand">INFFLOW</a>
+        <a href ng-click="main.go()" class="navbar-brand">INFFLOW</a>
       </div>
       <form class="navbar-form navbar-right">
-        <button ng-click="main.connectButton()" id="connectButton" class="btn btn-link">Connect Twitter</button>
-        <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-link">Hashwall</button>
-        <button disabled ng-click="main.signOut()" id="signOut" class="btn btn-link">Sign Out</button>
+        <!-- <button ng-click="main.connectButton()" id="connectButton" class="btn btn-link"><span class="fa fa-twitter"></button>
+        <button disabled id="hashWall" ng-click="main.go('hashwall')" class="btn btn-link">Hashwall</button> -->
+        <button id="signOut" ng-hide="!main.signedIn" disabled ng-click="main.signOut()" id="signOut" class="btn btn-link"><span class="fa fa-twitter">&nbsp;Sign Out</button>
       </form>
     </div>
   </nav>
