@@ -4,7 +4,7 @@ body {
 }
 
 body {
-  padding-top: 70px;
+  padding-top: 60px;
   font-family: 'Roboto';
   background: url(../images/noisy_grid_@2X.png) 0 0 repeat;
   background-size: 150px;
@@ -12,20 +12,6 @@ body {
 
 .container {
   // min-height: 100vh;
-}
-
-#signOut {
-  &:hover {
-    color: #fff !important;
-  }
-  .fa-twitter {
-    // font-size: 3.1em;
-  }
-  // padding: 0;
-  // border: 0;
-  // margin: 0 0.5em 0 0;
-  color: lighten($color-twitterBlue, 90%) !important;
-  // line-height: 0.1;
 }
 
 .navbar {
