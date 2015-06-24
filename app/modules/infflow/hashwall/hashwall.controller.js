@@ -2,14 +2,14 @@
   'use strict';
 
   angular
-      .module('infflow.hashwall', [])
+      .module('infflow.hashwall', ['infflow.filters'])
       .controller('HashwallController', HashwallController);
 
   HashwallController.$inject = ['$scope', '$location', '$timeout', 'ipService',
-      'twitterService'];
+      'twitterService', '$filter'];
 
   function HashwallController($scope, $location, $timeout, ipService,
-      twitterService) {
+      twitterService, $filter) {
 
     var vm = this;
     var woeid = 23424977; //USA http://goo.gl/P8ycIH
@@ -20,7 +20,7 @@
     vm.tweets = null;
     vm.getQuery = getQuery;
     vm.geo = null;
-    vm.text = "An emotional ad that gives props to single moms on Father's Day. http://t.co/SP6B0M2yyd";
+    vm.text = $filter('processTwitterText')("An emotional ad that gives props to single moms on Father's Day. http://t.co/SP6B0M2yyd");
 
     twitterService.getTrends(woeid).then(function(response){
         vm.trends = response[0].trends;

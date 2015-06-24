@@ -3,7 +3,7 @@
 
   angular
     .module('infflow', [
-      'ngRoute', 'ngAnimate', 'ngSanitize', 'angular-loading-bar',
+      'ngRoute', 'ngAnimate', 'angular-loading-bar',
       'infflow.api', 'infflow.landing', 'infflow.filters',
       'infflow.lost', 'infflow.hashwall', 'infflow.config', 'infflow.widgets'
     ])
