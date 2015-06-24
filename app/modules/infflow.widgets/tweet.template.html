@@ -1,4 +1,3 @@
-
 <div ng-show="vm.passMustard()" class="tweet-box layout horizontal">
   <div ng-click="vm.goTweet('profile', vm.twt);" class="tweet-profile">
     <img class="img-circle flex-none" ng-src="{{vm.twt.user.profile_image_url}}">
@@ -11,7 +10,8 @@
     <!-- <img ng-src="{{vm.twt.user.profile_image_url.replace('normal', '200x200')}}"> -->
     <!-- <p>{{vm.twt.profile_background_color}}</p> -->
     <!-- <p>{{vm.twt.text | processTwitterText}}</p> -->
-    <p class="text">{{vm.twt.text}}</p>
+    <!-- <p class="text">{{vm.twt.text}}</p> -->
+    <p class="text">{{vm.twt.linkedText}}</p>
     <div class="bar">
       <ul>
         <li ng-click="vm.goTweet('reply', vm.twt)"><i class="fa fa-reply"></i>&nbsp;</li>

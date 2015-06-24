@@ -16,8 +16,7 @@
       restrict: 'A',
       link: link,
       scope: {
-        twt: '=',
-        processTwitterText: '=filter'
+        twt: '='
       },
       templateUrl: 'modules/infflow.widgets/tweet.template.html',
       bindToController: true,
@@ -34,13 +33,15 @@
 
   }
 
-  TweetController.$inject = ['$scope', '$window'];
+  TweetController.$inject = ['$scope', '$window', '$filter'];
 
-  function TweetController($scope, $window) {
+  function TweetController($scope, $window, $filter) {
     var vm = this;
 
     vm.passMustard = passMustard;
     vm.goTweet = goTweet;
+    vm.twt.linkedText = $filter('processTwitterText')(vm.twt.text);
+    // console.log(vm.twt.text, vm.twt.linkedText);??
 
     function passMustard() {
       if (vm.twt.user.profile_image_url && vm.twt.user.followers_count > 10) {
