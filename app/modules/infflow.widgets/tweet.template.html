@@ -11,7 +11,7 @@
     <!-- <p>{{vm.twt.profile_background_color}}</p> -->
     <!-- <p>{{vm.twt.text | processTwitterText}}</p> -->
     <!-- <p class="text">{{vm.twt.text}}</p> -->
-    <p class="text">{{vm.twt.linkedText}}</p>
+    <p class="text" ng-bind-html="vm.twt.linkedText"></p>
     <div class="bar">
       <ul>
         <li ng-click="vm.goTweet('reply', vm.twt)"><i class="fa fa-reply"></i>&nbsp;</li>

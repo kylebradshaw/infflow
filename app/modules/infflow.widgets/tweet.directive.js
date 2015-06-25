@@ -24,7 +24,7 @@
       controllerAs: 'vm',
       // transclude: true
       replace: true
-    }
+    };
     return directive;
 
     function link(scope, element, attrs){
