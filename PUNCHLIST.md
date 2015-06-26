@@ -7,3 +7,4 @@
 * Toastr Messaging
 * About Page
 * Hashwall Validation (make sure you are connected to twitter)
+# JSHINTing eslint?
