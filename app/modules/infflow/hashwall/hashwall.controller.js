@@ -20,7 +20,7 @@
     vm.tweets = null;
     vm.getQuery = getQuery;
     vm.geo = null;
-    vm.text = $filter('processTwitterText')("An emotional ad that gives props to single moms on Father's Day. http://t.co/SP6B0M2yyd");
+    // vm.text = $filter('processTwitterText')("An emotional ad that gives props to single moms on Father's Day. http://t.co/SP6B0M2yyd");
 
     twitterService.getTrends(woeid).then(function(response){
         vm.trends = response[0].trends;

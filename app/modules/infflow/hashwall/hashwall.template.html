@@ -3,12 +3,12 @@
     <div class="col-sm-12">
       <small ng-show="vm.ip">IP ADDRESS: {{vm.ip}}</small>
       <small ng-show="vm.geo">GEO: {{vm.geo.data}}</small>
-      <div ng-bind-html="vm.text"></div>
+      <!-- <div ng-bind-html="vm.text"></div> -->
     </div>
   </div>
-  <div class="row">
+  <div class="row search-form-container">
     <div class="col-sm-12">
-      <form class="form-inline search-form" ng-submit="vm.getQuery(vm.query)">
+      <form class="form-inline" ng-submit="vm.getQuery(vm.query)">
         <div class="form-group" style="width: 100%;">
           <div class="col-sm-1">
             <label for="searchTwitter">Search Twitter</label>
