@@ -27,6 +27,7 @@
     "oauth-js": "~0.4.3",
     "angular-sanitize": "~1.4.1",
     "angular-momentjs": "~0.1.9",
-    "angular-loading-bar": "~0.8.0"
+    "angular-loading-bar": "~0.8.0",
+    "font-awesome": "~4.3.0"
   }
 }
