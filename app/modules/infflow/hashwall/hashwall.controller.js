@@ -26,7 +26,7 @@
         vm.trends = response[0].trends;
       }, function(error) {
         console.error(error);
-      })
+      });
 
     function getQuery(search) {
       if (!search) {

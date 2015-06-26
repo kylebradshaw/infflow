@@ -10,6 +10,7 @@
   function twitterService($q, $location, OAUTH_ID) {
 
     var auth = false;
+    var OAuth = window.OAuth;
 
     var service = {
       init: init,
@@ -38,7 +39,7 @@
           auth = result;
           d.resolve();
         }
-      })
+      });
       return d.promise;
     }
 
@@ -52,7 +53,7 @@
       var promise = auth.get('/1.1/trends/place.json?&id='+woeid)
         .done(function(data){
           d.resolve(data);
-        })
+        });
       return d.promise;
     }
 
@@ -62,7 +63,7 @@
       var promise = auth.get('/1.1/search/tweets.json?count=100&q='+search)
         .done(function(data){
           d.resolve(data);
-        })
+        });
       return d.promise;
     }
 

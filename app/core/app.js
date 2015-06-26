@@ -25,7 +25,7 @@
       .when('/hashwall', routeConfig('hashwall'))
       .otherwise({
         redirectTo: '/lost'
-      })
+      });
   }
 
   function routeConfig(name) {
@@ -34,7 +34,7 @@
       controller: capitalName + 'Controller',
       controllerAs: 'vm',
       templateUrl: 'modules/infflow/' + name + '/' + name + '.template.html'
-    }
+    };
   }
 
   function MainController($route, $routeParams, $location, twitterService) {
