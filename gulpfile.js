@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+var shell = require('gulp-shell');
 var browserSync = require('browser-sync').create();
 var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
@@ -41,11 +42,11 @@ gulp.task('serve', ['sass'], function() {
 
 gulp.task('jshint', function() {
   return gulp.src(paths.scripts)
-      .pipe(jshint('.jshintrc'))
-      .pipe(jshint.reporter(stylish))
-      .pipe(jshint.reporter('fail').on('error', function(err){
-        gutil.beep();
-      }));
+    .pipe(jshint('.jshintrc'))
+    .pipe(jshint.reporter(stylish))
+    .pipe(jshint.reporter('fail').on('error', function(err) {
+      gutil.beep();
+    }));
 });
 
 gulp.task('sass', function() {
@@ -68,17 +69,16 @@ gulp.task('usemin', function() {
     .pipe(gulp.dest(paths.build));
 });
 
-gulp.task('copy', ['clean', 'fonts'], function() {
+gulp.task('copy', ['fonts'], function() {
   gulp.src(paths.html)
     .pipe(gulp.dest(paths.build));
 });
 
-gulp.task('clean', function() {
-  gulp.src(paths.build, {
-      read: false
-    })
-    .pipe(clean());
-});
+// rm -rf
+gulp.task('rmrf', shell.task([
+  'rm -rf ' + paths.build
+]));
+
 
 // Fonts
 gulp.task('fonts', function() {
@@ -89,4 +89,4 @@ gulp.task('fonts', function() {
 });
 
 gulp.task('default', ['serve']);
-gulp.task('build', ['copy', 'jshint', 'sass', 'usemin']);
+gulp.task('build', ['rmrf', 'copy', 'jshint', 'sass', 'usemin']);
