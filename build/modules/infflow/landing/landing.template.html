@@ -1,0 +1,10 @@
+<div class="jumbotron">
+  <div class="container">
+    <h1>Welcome to INFFLOW</h1>
+    <p>To use this app you must allow us to talk on the Twitter API on your behalf. It'll be worth it!</p>
+    <div class="button-container">
+    <button ng-hide="main.signedIn" ng-click="main.connectButton()" id="connectButton" class="smooth-render btn btn-link"><span class="fa fa-twitter"> Connect To Twitter</button>
+    <button ng-hide="!main.signedIn" id="hashWall" ng-click="main.go('hashwall')" class="smooth-render btn btn-link">Visit The Hashwall <span class="fa fa-long-arrow-right"></span></button>
+    </div>
+  </div>
+</div>
