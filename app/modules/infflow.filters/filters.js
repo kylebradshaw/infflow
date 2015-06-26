@@ -30,12 +30,10 @@
     };
     return function(input) {
       if (input !== undefined) {
-        console.log(input);
         var output = $sce.trustAsHtml(input.parseURL().parseUsername().parseHashtag());
-        console.log(output);
-        return output
+        return output;
       }
-    }
+    };
   }
 
 }());

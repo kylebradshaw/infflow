@@ -69,6 +69,9 @@
         case 'follow':
           url += 'follow?tweet_id=' + id;
           break;
+        case 'tweet':
+          url = 'https://twitter.com/' + item.user.screen_name + '/' + id;
+          break;
       }
 
       $window.open(url);

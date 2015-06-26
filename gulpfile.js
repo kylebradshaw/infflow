@@ -34,19 +34,18 @@ gulp.task('serve', ['sass'], function() {
   });
 
   gulp.watch(paths.styles.files, ['sass']);
-  // gulp.watch(paths.scripts, ['jshint']);
+  gulp.watch(paths.scripts, ['jshint']);
   gulp.watch(['./app/*.html', './app/**/*.js']).on('change', browserSync.reload);
 
 });
 
 gulp.task('jshint', function() {
   return gulp.src(paths.scripts)
-    .pipe(jshint('.jshintrc'))
-    .pipe(jshint.reporter(stylish))
-    .pipe(jshint.reporter('fail').on('error', function(err) {
-      gutil.beep();
-      gutil.log(err.message);
-    }));
+      .pipe(jshint('.jshintrc'))
+      .pipe(jshint.reporter(stylish))
+      .pipe(jshint.reporter('fail').on('error', function(err){
+        gutil.beep();
+      }));
 });
 
 gulp.task('sass', function() {
