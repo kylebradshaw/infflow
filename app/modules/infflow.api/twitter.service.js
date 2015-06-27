@@ -57,10 +57,11 @@
       return d.promise;
     }
 
-    function getQuery(search) {
+    function getQuery(search, count) {
       // https://api.twitter.com/1.1/search/tweets.json
+      var count = (count) ? count : 10;
       var d = $q.defer();
-      var promise = auth.get('/1.1/search/tweets.json?count=100&q='+search)
+      var promise = auth.get('/1.1/search/tweets.json?count='+count+'&q='+search)
         .done(function(data){
           d.resolve(data);
         });

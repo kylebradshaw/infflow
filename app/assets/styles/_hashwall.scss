@@ -37,10 +37,12 @@
   left: 0;
   bottom: 0;
   min-height: 800px;
-  overflow: hidden;
+  // overflow: hidden;
 }
 
 .search-form-container {
+  position: relative;
+  z-index: 9999;
   @extend .vignette;
   background-color: #FFF;
   padding: 10px 0;

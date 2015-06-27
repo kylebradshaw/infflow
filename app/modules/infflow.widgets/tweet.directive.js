@@ -28,7 +28,63 @@
     return directive;
 
     function link(scope, element, attrs){
-      //console.log(scope, element, attrs, 'tweet');
+      var twt = scope.vm.twt;
+      var scale = getScale();
+      var $el = $(element);
+      var $tweet = $(element).find('> div');
+      var randomInt =  Math.floor(Math.random() * 100) + 1;
+      var pos = getPos();
+
+      function getScale() {
+        var scale = Math.log10(twt.favorite_count + twt.retweet_count + twt.user.followers_count) / 3;
+        return (scale > 0) ? scale : 1;
+      }
+
+      function getPos() {
+        return randomInt + '%';
+      }
+
+      function runAnimation() {
+        $el.addClass('run-animation');
+        console.log('right', pos);
+        $el.css({
+          left: pos
+        });
+      }
+
+      window.setTimeout(runAnimation, randomInt * 500);
+
+      $tweet.css({
+        transform: 'scale('+scale+')',
+        // fontSize: scale,
+        // width: scale * 1.1,
+        // height: scale * 1.1,
+        zIndex: Math.round(1000 * scale),
+        // opacity: Math.random()
+      });
+
+      $tweet.on('mouseenter', function() {
+        $(this).parent().addClass('pause');
+        $(this).parent().on('animationEnd', function() {
+          this.style.animationPlayState = "paused";
+        });
+      }).on('mouseleave', function() {
+        if (!$(this).parent().hasClass('clicked')) {
+          $(this).parent().removeClass('pause');
+          return;
+        }
+      }).on('click', function() {
+        if ($(this).parent().hasClass('clicked')) {
+          $(this).parent().removeClass('clicked pause');
+          return;
+        }
+        $(this).parent().addClass('clicked pause');
+        $(this).parent().on('animationEnd', function() {
+          this.style.animationPlayState = "paused";
+        });
+      });
+
+      console.log(scope, element, attrs, 'tweet');
     }
 
   }

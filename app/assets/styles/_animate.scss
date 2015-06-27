@@ -21,9 +21,10 @@
 // /* terminal animations for leave */
 
 .run-animation {
+  display: block;
   background-color: teal;
   position: absolute;
-  animation: falling 6s linear infinite;
+  animation: falling 16s linear infinite;
 }
 .pause {
   animation-play-state: paused;
