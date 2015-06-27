@@ -68,6 +68,7 @@
     }
 
     function connectButton () {
+      console.log('connectButton Called');
       twitterService.connect().then(function() {
         if (twitterService.onReady()) {
           $('#connectButton').prop('disabled', true);

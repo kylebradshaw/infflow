@@ -11,10 +11,10 @@
       <form class="form-inline" ng-submit="vm.getQuery(vm.query)">
         <div class="form-group" style="width: 100%;">
           <div class="col-sm-1">
-            <label for="searchTwitter">Search Twitter</label>
+          <label for="searchTwitter" title="Search Twitter"><i class="fa fa-search"></i></label>
           </div>
           <div class="col-sm-10">
-            <input id="searchTwitter" ng-init="vm.query = '#angularjs'" autofocus class="form-control" style="width: 100%;" ng-model="vm.query" type="text">
+            <input id="searchTwitter" ng-init="vm.query = '#angularjs'" autofocus class="search-query form-control" style="width: 100%;" ng-model="vm.query" type="text">
           </div>
         </div>
       </form>
