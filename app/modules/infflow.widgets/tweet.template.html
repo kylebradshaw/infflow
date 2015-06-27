@@ -1,24 +1,26 @@
-<div ng-show="vm.passMustard()" class="tweet-box layout horizontal">
-  <div ng-click="vm.goTweet('profile', vm.twt);" class="tweet-profile">
-    <img class="img-circle flex-none" ng-src="{{vm.twt.user.profile_image_url}}">
-    <p>{{vm.twt.user.followers_count}}</p>
-  </div>
-  <div class="tweet-content flex-auto">
-    <header>
-      <b ng-click="vm.goTweet('profile', vm.twt);"><i class="fa fa-twitter"></i> <span>@{{vm.twt.user.screen_name}}</b>
-    </header>
-    <!-- <img ng-src="{{vm.twt.user.profile_image_url.replace('normal', '200x200')}}"> -->
-    <!-- <p>{{vm.twt.profile_background_color}}</p> -->
-    <!-- <p>{{vm.twt.text | processTwitterText}}</p> -->
-    <!-- <p class="text">{{vm.twt.text}}</p> -->
-    <p class="text" ng-bind-html="vm.twt.linkedText"></p>
-    <div class="bar">
-      <ul>
-        <li ng-click="vm.goTweet('reply', vm.twt)"><i class="fa fa-reply"></i>&nbsp;</li>
-        <li ng-click="vm.goTweet('retweet', vm.twt)"><i class="fa fa-retweet"></i>&nbsp;{{vm.twt.retweet_count}}</li>
-        <li ng-click="vm.goTweet('favorite', vm.twt)"><i class="fa fa-star"></i>&nbsp;{{vm.twt.favorite_count}}</li>
-        <li ng-click="vm.goTweet('tweet', vm.twt)"><i class="fa fa-clock-o">&nbsp;</i></li>
-      </ul>
+<div class="tweet-wrap run-animation" ng-show="vm.passMustard()">
+  <div class="tweet-box layout horizontal">
+    <div ng-click="vm.goTweet('profile', vm.twt);" class="tweet-profile">
+      <img class="img-circle flex-none" ng-src="{{vm.twt.user.profile_image_url}}">
+      <p>{{vm.twt.user.followers_count}}</p>
+    </div>
+    <div class="tweet-content flex-auto">
+      <header>
+        <b ng-click="vm.goTweet('profile', vm.twt);"><i class="fa fa-twitter"></i> <span>@{{vm.twt.user.screen_name}}</b>
+      </header>
+      <!-- <img ng-src="{{vm.twt.user.profile_image_url.replace('normal', '200x200')}}"> -->
+      <!-- <p>{{vm.twt.profile_background_color}}</p> -->
+      <!-- <p>{{vm.twt.text | processTwitterText}}</p> -->
+      <!-- <p class="text">{{vm.twt.text}}</p> -->
+      <p class="text" ng-bind-html="vm.twt.linkedText"></p>
+      <div class="bar">
+        <ul>
+          <li ng-click="vm.goTweet('reply', vm.twt)"><i class="fa fa-reply"></i>&nbsp;</li>
+          <li ng-click="vm.goTweet('retweet', vm.twt)"><i class="fa fa-retweet"></i>&nbsp;{{vm.twt.retweet_count}}</li>
+          <li ng-click="vm.goTweet('favorite', vm.twt)"><i class="fa fa-star"></i>&nbsp;{{vm.twt.favorite_count}}</li>
+          <li ng-click="vm.goTweet('tweet', vm.twt)"><i class="fa fa-clock-o">&nbsp;</i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
