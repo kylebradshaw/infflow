@@ -25,28 +25,30 @@
   background-color: teal;
   position: absolute;
   animation: falling 16s linear infinite;
+  // pointer-events: none;
 }
 .pause {
   animation-play-state: paused;
+  // pointer-events: auto;
 }
 @keyframes falling {
   0% {
-    transform: translateY(-20rem);
+    transform: translateY(-1rem);
     /* top: -1em; */
-    /* opacity: 0; */
+    opacity: 0;
   }
 
-  10% {
-    /* opacity: 1; */
+  5% {
+    opacity: 1;
   }
 
-  90% {
-    /* opacity: 1; */
+  95% {
+    opacity: 1;
   }
 
   100% {
     transform: translateY(100%);
     /* top: 100%; */
-    /* opacity: 0; */
+    opacity: 0;
   }
 }

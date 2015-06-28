@@ -43388,53 +43388,61 @@ angular.module('cfp.loadingBar', [])
       bindToController: true,
       controller: TweetController,
       controllerAs: 'vm',
-      // transclude: true
       replace: true
     };
     return directive;
 
     function link(scope, element, attrs){
       var twt = scope.vm.twt;
-      var scale = getScale();
       var $el = $(element);
       var $tweet = $(element).find('> div');
       var randomInt =  Math.floor(Math.random() * 100) + 1;
       var pos = getPos();
+      var magic = 2.8;
+      var secret = Math.log10(twt.favorite_count + twt.retweet_count + twt.user.followers_count);
+      var scale = getScale();
+      var zIndex = Math.round(1000 * scale);
 
       function getScale() {
-        var scale = Math.log10(twt.favorite_count + twt.retweet_count + twt.user.followers_count) / 3;
-        return (scale > 0) ? scale : 1;
+        var ret = secret / magic;
+        console.log(ret, 'tweet scale', twt.favorite_count, twt.retweet_count, twt.user.followers_count);
+        return (ret > 0) ? ret : 1;
       }
 
       function getPos() {
+        console.log('random Int', randomInt);
         return randomInt + '%';
       }
 
       function runAnimation() {
         $el.addClass('run-animation');
-        console.log('right', pos);
         $el.css({
-          left: pos
+          left: pos,
+          zIndex: zIndex
         });
       }
 
       window.setTimeout(runAnimation, randomInt * 500);
 
+      $el.data('zIndex', zIndex);
       $tweet.css({
         transform: 'scale('+scale+')',
         // fontSize: scale,
         // width: scale * 1.1,
         // height: scale * 1.1,
-        zIndex: Math.round(1000 * scale),
         // opacity: Math.random()
       });
 
       $tweet.on('mouseenter', function() {
+        $tweet.addClass('inspection');
+        $el.css({zIndex: 9999999});
         $(this).parent().addClass('pause');
         $(this).parent().on('animationEnd', function() {
           this.style.animationPlayState = "paused";
         });
       }).on('mouseleave', function() {
+        $tweet.removeClass('inspection');
+        $el.css({zIndex: $el.data('zIndex')});
         if (!$(this).parent().hasClass('clicked')) {
           $(this).parent().removeClass('pause');
           return;
@@ -43450,7 +43458,7 @@ angular.module('cfp.loadingBar', [])
         });
       });
 
-      console.log(scope, element, attrs, 'tweet');
+      // console.log(scope, element, attrs, 'tweet');
     }
 
   }

@@ -1,11 +1,9 @@
 // /* The starting CSS styles for the enter animation */
-
 // .tweet-box.ng-enter {
 //   transition: 5s linear all;
 //   opacity: 0;
 // }
 // /* The finishing CSS styles for the enter animation */
-
 // .tweet-box.ng-enter.ng-enter-active {
 //   opacity: 1;
 // }
@@ -13,7 +11,7 @@
   display: none;
   width: 0px;
   overflow: visible;
-  min-height: 100vh;
+  min-height: 80vh;
 }
 
 .tweet-box {
@@ -25,7 +23,15 @@
   padding: 10px;
   margin: 10px;
   background-color: rgba(255, 255, 255, 0.8);
-
+  transition: 0.5s all ease-in;
+  // scale it up on pause and hover
+  &.inspection {
+    z-index: 9999999 !important;
+    transform: scale(1.8) !important;
+  }
+  .pause & {
+    border: 1px dashed rgba(0, 0, 0, 0.9);
+  }
   [ng-click] {
     &:hover {
       color: $color-twitterBlue;
