@@ -56,16 +56,20 @@
         });
       }
 
+      //if it's the first, no timeout, else -> random
       window.setTimeout(runAnimation, randomInt * 500);
 
+      //save z-index for later
       $el.data('zIndex', zIndex);
+
       $tweet.css({
         transform: 'scale('+scale+')',
         // fontSize: scale,
         // width: scale * 1.1,
         // height: scale * 1.1,
         // opacity: Math.random()
-      });
+      })
+      .draggable(); //jQuery UI
 
       $tweet.on('mouseenter', function() {
         $tweet.addClass('inspection');
@@ -90,6 +94,10 @@
         $(this).parent().on('animationEnd', function() {
           this.style.animationPlayState = "paused";
         });
+      });
+
+      $tweet.find('.tweet-close').on('click', function() {
+        $tweet.remove();
       });
 
       // console.log(scope, element, attrs, 'tweet');

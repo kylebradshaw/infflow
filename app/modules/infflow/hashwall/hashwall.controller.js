@@ -28,12 +28,15 @@
         console.error(error);
       });
 
-    function getQuery(search) {
+    function getQuery(search, count) {
       if (!search) {
         search = vm.query;
       }
+      if (!count) {
+        count = 20;
+      }
       search = window.encodeURIComponent(search);
-      twitterService.getQuery(search).then(function(response){
+      twitterService.getQuery(search, count).then(function(response){
         vm.tweets = response;
       }, function(error) {
         console.error(error);

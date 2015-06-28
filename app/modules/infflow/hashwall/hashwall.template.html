@@ -11,7 +11,7 @@
       <form class="form-inline" ng-submit="vm.getQuery(vm.query)">
         <div class="form-group" style="width: 100%;">
           <div class="col-sm-1">
-          <label for="searchTwitter" title="Search Twitter"><i class="fa fa-search"></i></label>
+            <label for="searchTwitter" title="Search Twitter"><i class="fa fa-search"></i></label>
           </div>
           <div class="col-sm-10">
             <input id="searchTwitter" ng-init="vm.query = '#angularjs'" autofocus class="search-query form-control" style="width: 100%;" ng-model="vm.query" type="text">
@@ -20,20 +20,18 @@
       </form>
     </div>
   </div>
-  <div class="row">
-    <div class="col-sm-2 trends-container">
-      <h2>Trending</h2>
+  <div class="tweets-container" ng-show="vm.tweets">
+    <h2>Results</h2>
+    <div tweet twt="t" ng-repeat="t in vm.tweets.statuses"></div>
+  </div>
+  <nav ng-show="vm.trends" class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container-fluid">
+      <b>Trending</b>
       <ol class="trends-list">
         <li ng-model="trend" ng-repeat="t in vm.trends">
           <a ng-click="vm.getQuery(t.query)" href>{{t.name}}</a>
         </li>
       </ol>
     </div>
-    <div class="col-sm-10" ng-show="vm.tweets">
-      <h2>Results</h2>
-      <div class="tweets-container">
-        <div tweet twt="t" ng-repeat="t in vm.tweets.statuses"></div>
-      </div>
-    </div>
-  </div>
+  </nav>
 </div>

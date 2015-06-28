@@ -21,7 +21,21 @@
 }
 
 .trends-list {
-  padding-left: 25px;
+  // padding-left: 25px;
+  padding: 0;
+  li {
+    display: inline-block;
+    margin-right: 1em;
+    &:after {
+      content: ",";
+    }
+    &:last-child:after {
+      content: "";
+    }
+    &:last-child {
+      margin: 0;
+    }
+  }
 }
 
 // .tweets-container {
@@ -32,17 +46,20 @@
 // }
 .tweets-container {
   position: absolute;
-  top: 0;
+  top: 60px;
   right: 0;
   left: 0;
   bottom: 0;
-  min-height: 800px;
+  min-height: calc(100vh - 60px);
+
   // overflow: hidden;
 }
 
 .search-form-container {
-  position: relative;
+  position: fixed;
   z-index: 9999;
+  left: 0;
+  right: 0;
   @extend .vignette;
   background-color: #FFF;
   padding: 10px 0;

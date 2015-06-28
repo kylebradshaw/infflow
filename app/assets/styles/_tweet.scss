@@ -20,14 +20,19 @@
   min-width: 300px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 4.5px;
   border-radius: 34px;
+  border-top-right-radius: 0;
   padding: 10px;
   margin: 10px;
   background-color: rgba(255, 255, 255, 0.8);
-  transition: 0.5s all ease-in;
+  transition: 0.5s transform ease-in;
   // scale it up on pause and hover
   &.inspection {
     z-index: 9999999 !important;
     transform: scale(1.8) !important;
+    .tweet-close {
+      transition: 0.5s display ease-in;
+      display: block;
+    }
   }
   .pause & {
     border: 1px dashed rgba(0, 0, 0, 0.9);
@@ -76,6 +81,17 @@
       display: inline-block;
       margin: 0 1em 0 0;
     }
+  }
+}
+
+.tweet-close {
+  cursor: pointer;
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  &:hover {
+    color: $color-red;
   }
 }
 

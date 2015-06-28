@@ -13,7 +13,7 @@ var minifyHtml = require('gulp-minify-html');
 var minifyCss = require('gulp-minify-css');
 
 var paths = {
-  scripts: ['app/**/*.js', '!app/bower_components/**/*.js'],
+  scripts: ['app/**/*.js', '!app/bower_components/**/*.js', '!app/assets/scripts/vendor'],
   html: [
     './app/**/*.html',
     '!./app/index.html',
