@@ -5,6 +5,7 @@
       <p ng-click="vm.goTweet('profile', vm.twt);">{{vm.twt.user.followers_count}}</p>
     </div>
     <div class="tweet-content flex-auto">
+      <i class="tweet-close fa fa-times"></i>
       <header>
         <b ng-click="vm.goTweet('profile', vm.twt);"><i class="fa fa-twitter"></i> <span>@{{vm.twt.user.screen_name}}</b>
       </header>
