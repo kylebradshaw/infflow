@@ -24,6 +24,7 @@
 
     twitterService.getTrends(woeid).then(function(response){
         vm.trends = response[0].trends;
+        load();
       }, function(error) {
         console.error(error);
       });
@@ -67,6 +68,13 @@
 
     function onGetGeoError (error) {
       console.error(error, 'fail');
+    }
+
+    function load() {
+      if(vm.trends) {
+        var t = vm.trends[0];
+        vm.getQuery(t.query);
+      }
     }
 
   }

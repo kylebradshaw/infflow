@@ -13,7 +13,7 @@ var minifyHtml = require('gulp-minify-html');
 var minifyCss = require('gulp-minify-css');
 
 var paths = {
-  scripts: ['app/**/*.js', '!app/bower_components/**/*.js', '!app/assets/scripts/vendor'],
+  scripts: ['app/**/*.js', '!app/bower_components/**/*.js', '!app/assets/scripts/vendor/*.js'],
   html: [
     './app/**/*.html',
     '!./app/index.html',
@@ -43,10 +43,10 @@ gulp.task('serve', ['sass'], function() {
 gulp.task('jshint', function() {
   return gulp.src(paths.scripts)
     .pipe(jshint('.jshintrc'))
-    .pipe(jshint.reporter(stylish))
-    .pipe(jshint.reporter('fail').on('error', function(err) {
-      gutil.beep();
-    }));
+    .pipe(jshint.reporter(stylish));
+    // .pipe(jshint.reporter('fail').on('error', function(err) {
+    //   gutil.beep();
+    // }));
 });
 
 gulp.task('sass', function() {
