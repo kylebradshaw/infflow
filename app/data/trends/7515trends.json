@@ -1,0 +1,59 @@
+[{
+  "trends": [{
+    "name": "#ImThatGirlfriend",
+    "query": "%23ImThatGirlfriend",
+    "url": "http:\/\/twitter.com\/search?q=%23ImThatGirlfriend",
+    "promoted_content": null
+  }, {
+    "name": "#greekreferendum",
+    "query": "%23greekreferendum",
+    "url": "http:\/\/twitter.com\/search?q=%23greekreferendum",
+    "promoted_content": null
+  }, {
+    "name": "#ThingsYouSaidAsASceneKid",
+    "query": "%23ThingsYouSaidAsASceneKid",
+    "url": "http:\/\/twitter.com\/search?q=%23ThingsYouSaidAsASceneKid",
+    "promoted_content": null
+  }, {
+    "name": "#USAvJPN",
+    "query": "%23USAvJPN",
+    "url": "http:\/\/twitter.com\/search?q=%23USAvJPN",
+    "promoted_content": null
+  }, {
+    "name": "#FakeHipsterFacts",
+    "query": "%23FakeHipsterFacts",
+    "url": "http:\/\/twitter.com\/search?q=%23FakeHipsterFacts",
+    "promoted_content": null
+  }, {
+    "name": "Stanley Johnson",
+    "query": "%22Stanley+Johnson%22",
+    "url": "http:\/\/twitter.com\/search?q=%22Stanley+Johnson%22",
+    "promoted_content": null
+  }, {
+    "name": "Verlander",
+    "query": "Verlander",
+    "url": "http:\/\/twitter.com\/search?q=Verlander",
+    "promoted_content": null
+  }, {
+    "name": "Travis Ishikawa",
+    "query": "%22Travis+Ishikawa%22",
+    "url": "http:\/\/twitter.com\/search?q=%22Travis+Ishikawa%22",
+    "promoted_content": null
+  }, {
+    "name": "Happy 5th of July",
+    "query": "%22Happy+5th+of+July%22",
+    "url": "http:\/\/twitter.com\/search?q=%22Happy+5th+of+July%22",
+    "promoted_content": null
+  }, {
+    "name": "Rodney Stuckey",
+    "query": "%22Rodney+Stuckey%22",
+    "url": "http:\/\/twitter.com\/search?q=%22Rodney+Stuckey%22",
+    "promoted_content": null
+  }],
+  "as_of": "2015-07-05T19:42:39Z",
+  "created_at": "2015-07-05T19:38:18Z",
+  "locations": [{
+    "name": "United States",
+    "woeid": 23424977
+  }]
+}]

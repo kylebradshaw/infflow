@@ -1,0 +1,3010 @@
+{
+  "statuses": [{
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:43 +0000 2015",
+    "id": 617781675477569536,
+    "id_str": "617781675477569536",
+    "text": "RT @SinCityChiGirl: Hipsters don't fall. They Tumblr.\n#FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1275296528,
+      "id_str": "1275296528",
+      "name": "CueSciFi",
+      "screen_name": "CyClonePerry",
+      "location": "Proud USC Gamecock Alumnus",
+      "description": "I'm a Work-in-Progress. Think Global, act Local. Be better than yesterday. Science, Logic, & Reason. Poet turned rapper...I'm in love with Words.\n\n#WeAllWeGot",
+      "url": "http:\/\/t.co\/71TZzWe2mU",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/71TZzWe2mU",
+            "expanded_url": "http:\/\/m.quickmeme.com\/Good-Guy-Greg-\/page\/6\/",
+            "display_url": "m.quickmeme.com\/Good-Guy-Greg-\u2026",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 325,
+      "friends_count": 506,
+      "listed_count": 17,
+      "created_at": "Sun Mar 17 15:43:27 +0000 2013",
+      "favourites_count": 11955,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 25558,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/605913149556924417\/Af1157My_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/605913149556924417\/Af1157My_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1275296528\/1433295925",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:45:07 +0000 2015",
+      "id": 617766170876182528,
+      "id_str": "617766170876182528",
+      "text": "Hipsters don't fall. They Tumblr.\n#FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003eiOS\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1027734648,
+        "id_str": "1027734648",
+        "name": "The # Queen",
+        "screen_name": "SinCityChiGirl",
+        "location": "Sin City, NV \u2660\ufe0f",
+        "description": "Degenerate Level: Expert. Sports Fanatic.\nEx Poker Player. #HashtagWarrior. Potty Mouth. Highly Inappropriate. Often Offensive. Always Sarcastic. #DUBNATION",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6004,
+        "friends_count": 977,
+        "listed_count": 113,
+        "created_at": "Sat Dec 22 04:29:55 +0000 2012",
+        "favourites_count": 63300,
+        "utc_offset": -25200,
+        "time_zone": "Arizona",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47499,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/616782969789788160\/euUGVeuc_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/616782969789788160\/euUGVeuc_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1027734648\/1434766973",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 53,
+      "favorite_count": 103,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [34, 51]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 53,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [54, 71]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "SinCityChiGirl",
+        "name": "The # Queen",
+        "id": 1027734648,
+        "id_str": "1027734648",
+        "indices": [3, 18]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:36 +0000 2015",
+    "id": 617781642598436864,
+    "id_str": "617781642598436864",
+    "text": "RT @FromRightField: @josh_ill_us, As far as I'm concerned, you win #FakeHipsterFacts.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 216587698,
+      "id_str": "216587698",
+      "name": "Sheepy Shoulders",
+      "screen_name": "josh_ill_us",
+      "location": "",
+      "description": "Comedy Writer \/ Co-host of @HashFakeFacts; Sundays @ 12PM ET \/ Some of my favorite tweets: http:\/\/t.co\/MokH7xeCnh",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [{
+            "url": "http:\/\/t.co\/MokH7xeCnh",
+            "expanded_url": "http:\/\/favstar.fm\/users\/josh_ill_us",
+            "display_url": "favstar.fm\/users\/josh_ill\u2026",
+            "indices": [91, 113]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 5078,
+      "friends_count": 5305,
+      "listed_count": 93,
+      "created_at": "Wed Nov 17 04:48:48 +0000 2010",
+      "favourites_count": 30622,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 18058,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/597981108521836545\/PF4KM3_D_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/597981108521836545\/PF4KM3_D_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/216587698\/1426510461",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:35:40 +0000 2015",
+      "id": 617778891080527873,
+      "id_str": "617778891080527873",
+      "text": "@josh_ill_us, As far as I'm concerned, you win #FakeHipsterFacts.",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": 617726695177613312,
+      "in_reply_to_status_id_str": "617726695177613312",
+      "in_reply_to_user_id": 216587698,
+      "in_reply_to_user_id_str": "216587698",
+      "in_reply_to_screen_name": "josh_ill_us",
+      "user": {
+        "id": 38364407,
+        "id_str": "38364407",
+        "name": "THE Dr. Chris Romeo",
+        "screen_name": "FromRightField",
+        "location": "The Milky Way",
+        "description": "THE Dr. Chris Romeo has all the answers, just not necessarily for your particular question. Dr. Romeo is for adults only. Specifically, immature adults.",
+        "url": "http:\/\/t.co\/AeeiAqAcW4",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/AeeiAqAcW4",
+              "expanded_url": "http:\/\/www.Flickr.com\/FromRightField\/",
+              "display_url": "Flickr.com\/FromRightField\/",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 850,
+        "friends_count": 1381,
+        "listed_count": 28,
+        "created_at": "Thu May 07 04:04:59 +0000 2009",
+        "favourites_count": 14975,
+        "utc_offset": -14400,
+        "time_zone": "America\/New_York",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21184,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000027419230\/2102cdbe58ff02e5c98577b5a60e5d98.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000027419230\/2102cdbe58ff02e5c98577b5a60e5d98.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614871156651347969\/fYyxxFJJ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614871156651347969\/fYyxxFJJ_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/38364407\/1406541703",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [47, 64]
+        }],
+        "symbols": [],
+        "user_mentions": [{
+          "screen_name": "josh_ill_us",
+          "name": "Sheepy Shoulders",
+          "id": 216587698,
+          "id_str": "216587698",
+          "indices": [0, 12]
+        }],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [67, 84]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "FromRightField",
+        "name": "THE Dr. Chris Romeo",
+        "id": 38364407,
+        "id_str": "38364407",
+        "indices": [3, 18]
+      }, {
+        "screen_name": "josh_ill_us",
+        "name": "Sheepy Shoulders",
+        "id": 216587698,
+        "id_str": "216587698",
+        "indices": [20, 32]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:25 +0000 2015",
+    "id": 617781599568945152,
+    "id_str": "617781599568945152",
+    "text": "Daria is God\n#FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/hashtagroundup.com\" rel=\"nofollow\"\u003eHashtagRoundup\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 729017456,
+      "id_str": "729017456",
+      "name": "SmacOne",
+      "screen_name": "EmceeSmacOne",
+      "location": "OKC, OK",
+      "description": "Writer, Artist, Producer, & Retired Man Slut. Just another attention whore gettin his whore on; *http:\/\/t.co\/BpAYk9YiX3*",
+      "url": "http:\/\/t.co\/FzR1TYTuIB",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/FzR1TYTuIB",
+            "expanded_url": "http:\/\/smacone.bandcamp.com",
+            "display_url": "smacone.bandcamp.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http:\/\/t.co\/BpAYk9YiX3",
+            "expanded_url": "http:\/\/southsidekrazykidz.bandcamp.com",
+            "display_url": "southsidekrazykidz.bandcamp.com",
+            "indices": [97, 119]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 1124,
+      "friends_count": 1981,
+      "listed_count": 11,
+      "created_at": "Tue Jul 31 19:02:57 +0000 2012",
+      "favourites_count": 1233,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2687,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/528041371878191104\/kpwTN4gy_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/528041371878191104\/kpwTN4gy_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/729017456\/1431911637",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [13, 30]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:20 +0000 2015",
+    "id": 617781575216926720,
+    "id_str": "617781575216926720",
+    "text": "If a Hipster sees a gun or wild animal they pass out. You have to put flowers in their beard to wake them up. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2785215336,
+      "id_str": "2785215336",
+      "name": "Ron Mexico",
+      "screen_name": "tmoswole",
+      "location": "Purple Mountain Majesty ",
+      "description": "Hashtag Warmonger, Absurd Newsman, Mad H@ter. Candidate for Devil #RonMexicoForDevil2016. Human by birth, American by the grace of God.",
+      "url": "http:\/\/t.co\/L4xx0irlhs",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/L4xx0irlhs",
+            "expanded_url": "http:\/\/favstar.fm\/users\/tmoswole",
+            "display_url": "favstar.fm\/users\/tmoswole",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1834,
+      "friends_count": 1988,
+      "listed_count": 23,
+      "created_at": "Tue Sep 02 05:00:29 +0000 2014",
+      "favourites_count": 16837,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15585,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/603122305439399936\/yYkrjvrx_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/603122305439399936\/yYkrjvrx_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2785215336\/1430209947",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [110, 127]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:01 +0000 2015",
+    "id": 617781499149058049,
+    "id_str": "617781499149058049",
+    "text": "RT @JB4Realz: Most hipsters hate other hipsters, but they do it ironically. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20432977,
+      "id_str": "20432977",
+      "name": "Stephen Molloy",
+      "screen_name": "stephenjmolloy",
+      "location": "Stevil Dead",
+      "description": "A team of 6 comedy writers all called Stephen Molloy",
+      "url": "http:\/\/t.co\/p7OH8NEGDn",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/p7OH8NEGDn",
+            "expanded_url": "http:\/\/favstar.fm\/users\/stephenjmolloy",
+            "display_url": "favstar.fm\/users\/stephenj\u2026",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2744,
+      "friends_count": 992,
+      "listed_count": 58,
+      "created_at": "Mon Feb 09 12:57:03 +0000 2009",
+      "favourites_count": 7667,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 11795,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/602928164260728832\/QhkDmuqU_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/602928164260728832\/QhkDmuqU_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/20432977\/1397493203",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:06:27 +0000 2015",
+      "id": 617756440334221312,
+      "id_str": "617756440334221312",
+      "text": "Most hipsters hate other hipsters, but they do it ironically. #FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 34590368,
+        "id_str": "34590368",
+        "name": "Grandpa 4Realz",
+        "screen_name": "JB4Realz",
+        "location": "Scoring 16 points on Scrabble\u00ae",
+        "description": "If there's a white version of No Chill... I'm the opposite of that. Recents:  http:\/\/t.co\/DgZb56qIVN\u2026",
+        "url": "http:\/\/t.co\/8kO1S811iT",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/8kO1S811iT",
+              "expanded_url": "http:\/\/favstar.fm\/users\/JB4Realz",
+              "display_url": "favstar.fm\/users\/JB4Realz",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/DgZb56qIVN",
+              "expanded_url": "http:\/\/twitter.com\/JB4Realz\/tim",
+              "display_url": "twitter.com\/JB4Realz\/tim",
+              "indices": [78, 100]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 3172,
+        "friends_count": 3263,
+        "listed_count": 92,
+        "created_at": "Thu Apr 23 11:42:38 +0000 2009",
+        "favourites_count": 17586,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7609,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/58663493\/my_brain2-1.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/58663493\/my_brain2-1.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/591556136974712834\/hPrvWp_0_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/591556136974712834\/hPrvWp_0_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/34590368\/1434452109",
+        "profile_link_color": "E38F19",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [62, 79]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [76, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "JB4Realz",
+        "name": "Grandpa 4Realz",
+        "id": 34590368,
+        "id_str": "34590368",
+        "indices": [3, 12]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:57 +0000 2015",
+    "id": 617781481541398528,
+    "id_str": "617781481541398528",
+    "text": "RT @vancesanders: A baby stroller with dog attached to it is their version of a Segway. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3306173819,
+      "id_str": "3306173819",
+      "name": "JKG",
+      "screen_name": "jkgordonobx",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 31,
+      "friends_count": 34,
+      "listed_count": 0,
+      "created_at": "Tue Jun 02 00:44:28 +0000 2015",
+      "favourites_count": 81,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 546,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_4_normal.png",
+      "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_4_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3306173819\/1434411937",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 17:56:20 +0000 2015",
+      "id": 617753893104021505,
+      "id_str": "617753893104021505",
+      "text": "A baby stroller with dog attached to it is their version of a Segway. #FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19458164,
+        "id_str": "19458164",
+        "name": "vance sanders",
+        "screen_name": "vancesanders",
+        "location": "South Pasadena, CA",
+        "description": "Is that a thing? I'm referring to myself.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1453,
+        "friends_count": 1951,
+        "listed_count": 32,
+        "created_at": "Sat Jan 24 18:59:30 +0000 2009",
+        "favourites_count": 19349,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18400,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2623591282\/dlv26jjzhp46z5c71lo7_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2623591282\/dlv26jjzhp46z5c71lo7_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/19458164\/1402971819",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [70, 87]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [88, 105]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vancesanders",
+        "name": "vance sanders",
+        "id": 19458164,
+        "id_str": "19458164",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:53 +0000 2015",
+    "id": 617781462029463553,
+    "id_str": "617781462029463553",
+    "text": "RT @bigmacher: Hipsters must learn 1 new word a day and then use it ironically 5 times throughout *that* day.\n#FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 91881036,
+      "id_str": "91881036",
+      "name": "Sue Griffey",
+      "screen_name": "SueMentors",
+      "location": "Columbia MD",
+      "description": "Passionate about mentoring the next generation, everyone having a chance in life, my husband, cooking for family\/friends, keeping in touch (Views my own.)",
+      "url": "http:\/\/t.co\/6ip1n1iS0E",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/6ip1n1iS0E",
+            "expanded_url": "http:\/\/SueMentors.blogspot.com",
+            "display_url": "SueMentors.blogspot.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 735,
+      "friends_count": 1192,
+      "listed_count": 130,
+      "created_at": "Sun Nov 22 22:22:54 +0000 2009",
+      "favourites_count": 317,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17072,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme18\/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/529696526067437568\/OE4opfyb_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/529696526067437568\/OE4opfyb_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/91881036\/1402949548",
+      "profile_link_color": "67A685",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 17:07:47 +0000 2015",
+      "id": 617741677327880192,
+      "id_str": "617741677327880192",
+      "text": "Hipsters must learn 1 new word a day and then use it ironically 5 times throughout *that* day.\n#FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8522892,
+        "id_str": "8522892",
+        "name": "Jeff Dwoskin",
+        "screen_name": "bigmacher",
+        "location": "Detroit, Michigan",
+        "description": "Comedian Executive Entrepreneur Chief Creative: @absrdnews @HashtagRoundup & http:\/\/t.co\/f1ijAfi4L9 http:\/\/t.co\/yWptaoQ6L0 I was on #LaughsTV",
+        "url": "http:\/\/t.co\/3X2tmP3dHV",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/3X2tmP3dHV",
+              "expanded_url": "http:\/\/www.jeffisfunny.com",
+              "display_url": "jeffisfunny.com",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/f1ijAfi4L9",
+              "expanded_url": "http:\/\/absrdcomedy.com",
+              "display_url": "absrdcomedy.com",
+              "indices": [77, 99]
+            }, {
+              "url": "http:\/\/t.co\/yWptaoQ6L0",
+              "expanded_url": "http:\/\/favstar.fm\/users\/bigmacher\/recent",
+              "display_url": "favstar.fm\/users\/bigmache\u2026",
+              "indices": [100, 122]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 39557,
+        "friends_count": 21354,
+        "listed_count": 566,
+        "created_at": "Thu Aug 30 00:26:07 +0000 2007",
+        "favourites_count": 17488,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16096,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/311759556\/jeffisfunnytwitterbcgrnd.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/311759556\/jeffisfunnytwitterbcgrnd.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000575169408\/235cc183aca1193d012e374f18c85047_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000575169408\/235cc183aca1193d012e374f18c85047_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/8522892\/1398217704",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 23,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [95, 112]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [110, 127]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "bigmacher",
+        "name": "Jeff Dwoskin",
+        "id": 8522892,
+        "id_str": "8522892",
+        "indices": [3, 13]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:52 +0000 2015",
+    "id": 617781458585784321,
+    "id_str": "617781458585784321",
+    "text": "They eat organic food. If they can afford\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 490412678,
+      "id_str": "490412678",
+      "name": "chip2chip2",
+      "screen_name": "Chip2chip2",
+      "location": "California , U.S.A",
+      "description": "Carpe Diem enjoyment of the pleasure of the moment w\/out the concern for the future.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 548,
+      "friends_count": 632,
+      "listed_count": 9,
+      "created_at": "Sun Feb 12 14:46:00 +0000 2012",
+      "favourites_count": 15134,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 35079,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/550474456720621568\/8ZGom5A3_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/550474456720621568\/8ZGom5A3_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/490412678\/1428767826",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [46, 63]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:47 +0000 2015",
+    "id": 617781439916982272,
+    "id_str": "617781439916982272",
+    "text": "RT @MrTommyCampbell: Hipsters would NEVER dare feed ducks gluten-free bread. It's white Wonder bread or nothing. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/www.JokeBlogger.com\" rel=\"nofollow\"\u003eJokeBlogger.com\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 353672532,
+      "id_str": "353672532",
+      "name": "JokeBlogger.com",
+      "screen_name": "JokeBlogger",
+      "location": "New York, NY",
+      "description": "We're a pop culture comedy blog featuring talented comedians & their jokes 24\/7. Fresh jokes retweeted, best of reposted, & featured jokes in our media gallery!",
+      "url": "http:\/\/t.co\/iW4W0zGdY0",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/iW4W0zGdY0",
+            "expanded_url": "http:\/\/www.JokeBlogger.com",
+            "display_url": "JokeBlogger.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56277,
+      "friends_count": 27768,
+      "listed_count": 452,
+      "created_at": "Fri Aug 12 13:19:56 +0000 2011",
+      "favourites_count": 6630,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 44859,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000097413668\/76304741ff6da6a5d87ffd57cf4b88c8.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000097413668\/76304741ff6da6a5d87ffd57cf4b88c8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000814105567\/3a9f5edfefb097abc475fcd862e0278e_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000814105567\/3a9f5edfefb097abc475fcd862e0278e_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/353672532\/1385877306",
+      "profile_link_color": "0219AB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:01:11 +0000 2015",
+      "id": 617724914682826752,
+      "id_str": "617724914682826752",
+      "text": "Hipsters would NEVER dare feed ducks gluten-free bread. It's white Wonder bread or nothing. #FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 30739842,
+        "id_str": "30739842",
+        "name": "Tommy Campbell",
+        "screen_name": "MrTommyCampbell",
+        "location": "Vancouver",
+        "description": "Actor\/Comic: The Dark Knight, Edge of Tomorrow, Arrow, Doctor Who, Supernatural, Funny or Die Wri\/Dir, star of Matt Hatter Chronicles, 2X @midnight champ!",
+        "url": "http:\/\/t.co\/EJt8veKTuy",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/EJt8veKTuy",
+              "expanded_url": "http:\/\/www.tommycampbell.ca",
+              "display_url": "tommycampbell.ca",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13193,
+        "friends_count": 3481,
+        "listed_count": 207,
+        "created_at": "Sun Apr 12 22:41:40 +0000 2009",
+        "favourites_count": 92629,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29322,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/458724777931182081\/ENj3aAK-_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/458724777931182081\/ENj3aAK-_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/30739842\/1398203664",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 32,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [92, 109]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [113, 130]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "MrTommyCampbell",
+        "name": "Tommy Campbell",
+        "id": 30739842,
+        "id_str": "30739842",
+        "indices": [3, 19]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:46 +0000 2015",
+    "id": 617781435945091072,
+    "id_str": "617781435945091072",
+    "text": "Hipsters and extremely territorial and will attack at the slightest provocation #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1918113306,
+      "id_str": "1918113306",
+      "name": "james burke",
+      "screen_name": "jamesbu36384336",
+      "location": "Charlotte, NC",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 123,
+      "friends_count": 134,
+      "listed_count": 0,
+      "created_at": "Sun Sep 29 21:07:39 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 413,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/582042001933094914\/S6yIxE1P_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/582042001933094914\/S6yIxE1P_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1918113306\/1381516792",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [80, 97]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:40 +0000 2015",
+    "id": 617781408094793728,
+    "id_str": "617781408094793728",
+    "text": "Hipsters don't sleep since like, everyone else is doing it. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3063652117,
+      "id_str": "3063652117",
+      "name": "bananaballed",
+      "screen_name": "bananaballed",
+      "location": "",
+      "description": "1. Send bananas. 2. __________ 3. Profit.",
+      "url": "http:\/\/t.co\/AEkUwyWEOw",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/AEkUwyWEOw",
+            "expanded_url": "http:\/\/bananaballed.com",
+            "display_url": "bananaballed.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 483,
+      "friends_count": 502,
+      "listed_count": 7,
+      "created_at": "Thu Mar 05 22:35:05 +0000 2015",
+      "favourites_count": 660,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1706,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/595982443221397504\/Se63TvzN_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/595982443221397504\/Se63TvzN_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3063652117\/1429645052",
+      "profile_link_color": "FFCC4D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [60, 77]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:27 +0000 2015",
+    "id": 617781356848771072,
+    "id_str": "617781356848771072",
+    "text": "RT @joshingstern: Start homeless end up hipster\n#FakeHipsterFacts http:\/\/t.co\/CfyeZu4vQM",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 35648499,
+      "id_str": "35648499",
+      "name": "Ina Zajac",
+      "screen_name": "InaZajac",
+      "location": "Seattle ",
+      "description": "#Seattle author of #PleasePrettyLights. Practice unconditional happiness: reality is in the eye of the beholder. #art #music #books #JasonSilva  #AbrahamHicks",
+      "url": "http:\/\/t.co\/o61Rs0vH5l",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/o61Rs0vH5l",
+            "expanded_url": "http:\/\/www.inazajac.com",
+            "display_url": "inazajac.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1008,
+      "friends_count": 1074,
+      "listed_count": 43,
+      "created_at": "Mon Apr 27 02:52:48 +0000 2009",
+      "favourites_count": 1274,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1797,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/611659681921003520\/QpEJyYC__normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/611659681921003520\/QpEJyYC__normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/35648499\/1402420757",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:27:58 +0000 2015",
+      "id": 617761854312607744,
+      "id_str": "617761854312607744",
+      "text": "Start homeless end up hipster\n#FakeHipsterFacts http:\/\/t.co\/CfyeZu4vQM",
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 33495086,
+        "id_str": "33495086",
+        "name": "joshingstern",
+        "screen_name": "joshingstern",
+        "location": "New York",
+        "description": "Wronger of Writes. My sins are locked in for freshness....",
+        "url": "http:\/\/t.co\/4jSIMN7wGE",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/4jSIMN7wGE",
+              "expanded_url": "http:\/\/www.andthatswhyimsingle.com",
+              "display_url": "andthatswhyimsingle.com",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 853867,
+        "friends_count": 666950,
+        "listed_count": 2997,
+        "created_at": "Mon Apr 20 12:24:24 +0000 2009",
+        "favourites_count": 290282,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48361,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000094893930\/c68cec8d45610549417fc88b0c439b39.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000094893930\/c68cec8d45610549417fc88b0c439b39.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/564901017204957184\/EeWJ6909_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/564901017204957184\/EeWJ6909_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/33495086\/1423533212",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 52,
+      "favorite_count": 69,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [30, 47]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617761850977968128,
+          "id_str": "617761850977968128",
+          "indices": [48, 70],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJK7IWNUYAAEu5l.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJK7IWNUYAAEu5l.jpg",
+          "url": "http:\/\/t.co\/CfyeZu4vQM",
+          "display_url": "pic.twitter.com\/CfyeZu4vQM",
+          "expanded_url": "http:\/\/twitter.com\/joshingstern\/status\/617761854312607744\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 407,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 216,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [48, 65]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "joshingstern",
+        "name": "joshingstern",
+        "id": 33495086,
+        "id_str": "33495086",
+        "indices": [3, 16]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617761850977968128,
+        "id_str": "617761850977968128",
+        "indices": [66, 88],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJK7IWNUYAAEu5l.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJK7IWNUYAAEu5l.jpg",
+        "url": "http:\/\/t.co\/CfyeZu4vQM",
+        "display_url": "pic.twitter.com\/CfyeZu4vQM",
+        "expanded_url": "http:\/\/twitter.com\/joshingstern\/status\/617761854312607744\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 640,
+            "h": 407,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 216,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 381,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617761854312607744,
+        "source_status_id_str": "617761854312607744",
+        "source_user_id": 33495086,
+        "source_user_id_str": "33495086"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:20 +0000 2015",
+    "id": 617781327023243264,
+    "id_str": "617781327023243264",
+    "text": "RT @krautsider: the hipster trend started way earlier than you think #FakeHipsterFacts http:\/\/t.co\/lnBh0vhU1n",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 326176182,
+      "id_str": "326176182",
+      "name": "aki",
+      "screen_name": "DSGNTD_PLYR",
+      "location": "dc\/md",
+      "description": "Wouldn't it be tight if everyone was chill with each other?",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 211,
+      "friends_count": 1999,
+      "listed_count": 7,
+      "created_at": "Wed Jun 29 14:11:04 +0000 2011",
+      "favourites_count": 4135,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6027,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000176707893\/CrcYN9Kb.png",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000176707893\/CrcYN9Kb.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/594703757398638592\/Hyhvv5m5_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/594703757398638592\/Hyhvv5m5_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 17:08:55 +0000 2015",
+      "id": 617741960653197312,
+      "id_str": "617741960653197312",
+      "text": "the hipster trend started way earlier than you think #FakeHipsterFacts http:\/\/t.co\/lnBh0vhU1n",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 241674327,
+        "id_str": "241674327",
+        "name": "krautsider",
+        "screen_name": "krautsider",
+        "location": "Germany",
+        "description": "I can't understand how people are ashamed for what they tweeted a few years ago. For me it just takes a few minutes.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 36234,
+        "friends_count": 36226,
+        "listed_count": 191,
+        "created_at": "Sat Jan 22 21:25:42 +0000 2011",
+        "favourites_count": 2217,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 431,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/422189649\/LABELS.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/422189649\/LABELS.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/426027756711731201\/V2EgZ1OH_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/426027756711731201\/V2EgZ1OH_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/241674327\/1396820382",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 76,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [53, 70]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617741949152403460,
+          "id_str": "617741949152403460",
+          "indices": [71, 93],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKpB6IWIAQsix0.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKpB6IWIAQsix0.jpg",
+          "url": "http:\/\/t.co\/lnBh0vhU1n",
+          "display_url": "pic.twitter.com\/lnBh0vhU1n",
+          "expanded_url": "http:\/\/twitter.com\/krautsider\/status\/617741960653197312\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [69, 86]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "krautsider",
+        "name": "krautsider",
+        "id": 241674327,
+        "id_str": "241674327",
+        "indices": [3, 14]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617741949152403460,
+        "id_str": "617741949152403460",
+        "indices": [87, 109],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKpB6IWIAQsix0.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKpB6IWIAQsix0.jpg",
+        "url": "http:\/\/t.co\/lnBh0vhU1n",
+        "display_url": "pic.twitter.com\/lnBh0vhU1n",
+        "expanded_url": "http:\/\/twitter.com\/krautsider\/status\/617741960653197312\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 640,
+            "h": 960,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617741960653197312,
+        "source_status_id_str": "617741960653197312",
+        "source_user_id": 241674327,
+        "source_user_id_str": "241674327"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:19 +0000 2015",
+    "id": 617781323210436609,
+    "id_str": "617781323210436609",
+    "text": "#FakeHipsterFacts was first a trending topic in 2011, but you probably never heard of it.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23086233,
+      "id_str": "23086233",
+      "name": "John F Dillon",
+      "screen_name": "JFD8",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 403,
+      "friends_count": 197,
+      "listed_count": 20,
+      "created_at": "Fri Mar 06 16:46:53 +0000 2009",
+      "favourites_count": 94,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19513,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/144967119\/Johnchild_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/144967119\/Johnchild_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [0, 17]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:15 +0000 2015",
+    "id": 617781305246396416,
+    "id_str": "617781305246396416",
+    "text": "Much like Hellboy their power resides in their horn rimmed glasses. #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2785215336,
+      "id_str": "2785215336",
+      "name": "Ron Mexico",
+      "screen_name": "tmoswole",
+      "location": "Purple Mountain Majesty ",
+      "description": "Hashtag Warmonger, Absurd Newsman, Mad H@ter. Candidate for Devil #RonMexicoForDevil2016. Human by birth, American by the grace of God.",
+      "url": "http:\/\/t.co\/L4xx0irlhs",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/L4xx0irlhs",
+            "expanded_url": "http:\/\/favstar.fm\/users\/tmoswole",
+            "display_url": "favstar.fm\/users\/tmoswole",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1834,
+      "friends_count": 1988,
+      "listed_count": 23,
+      "created_at": "Tue Sep 02 05:00:29 +0000 2014",
+      "favourites_count": 16837,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15585,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/603122305439399936\/yYkrjvrx_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/603122305439399936\/yYkrjvrx_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2785215336\/1430209947",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [68, 85]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:13 +0000 2015",
+    "id": 617781296316723200,
+    "id_str": "617781296316723200",
+    "text": "To assist with the growing flower beard trend, some hipsters are wearing custom made facial greenhouses #FakeHipsterFacts @HashFakeFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 87018272,
+      "id_str": "87018272",
+      "name": "Dave Martin",
+      "screen_name": "davetmartin",
+      "location": "Aylesbury",
+      "description": "Writer, Movie\/TV\/Music Lover and all round Geek. Views my own.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1532,
+      "friends_count": 1511,
+      "listed_count": 10,
+      "created_at": "Mon Nov 02 20:17:30 +0000 2009",
+      "favourites_count": 138,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4659,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/488351843638992896\/spOCXoOc.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/488351843638992896\/spOCXoOc.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3302265653\/389e780e77fb3e85dc0a4f4242430008_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3302265653\/389e780e77fb3e85dc0a4f4242430008_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/87018272\/1431467348",
+      "profile_link_color": "661A6E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "333333",
+      "profile_text_color": "999999",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "06168d1feda43857",
+      "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/06168d1feda43857.json",
+      "place_type": "admin",
+      "name": "South East",
+      "full_name": "South East, England",
+      "country_code": "GB",
+      "country": "United Kingdom",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.95729593780907, 50.5746064789388],
+            [1.45178800018019, 50.5746064789388],
+            [1.45178800018019, 52.1962850088601],
+            [-1.95729593780907, 52.1962850088601]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [104, 121]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "HashFakeFacts",
+        "name": "#FakeFacts",
+        "id": 3060304998,
+        "id_str": "3060304998",
+        "indices": [122, 136]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:09 +0000 2015",
+    "id": 617781279438860288,
+    "id_str": "617781279438860288",
+    "text": "RT @angry_eyebrowz: If you write \"Abercrombie\" on the the threshold of a house, a hipster cannot enter.  #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 326176182,
+      "id_str": "326176182",
+      "name": "aki",
+      "screen_name": "DSGNTD_PLYR",
+      "location": "dc\/md",
+      "description": "Wouldn't it be tight if everyone was chill with each other?",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 211,
+      "friends_count": 1999,
+      "listed_count": 7,
+      "created_at": "Wed Jun 29 14:11:04 +0000 2011",
+      "favourites_count": 4135,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6027,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000176707893\/CrcYN9Kb.png",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000176707893\/CrcYN9Kb.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/594703757398638592\/Hyhvv5m5_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/594703757398638592\/Hyhvv5m5_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 17:10:05 +0000 2015",
+      "id": 617742256049680384,
+      "id_str": "617742256049680384",
+      "text": "If you write \"Abercrombie\" on the the threshold of a house, a hipster cannot enter.  #FakeHipsterFacts",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 162094457,
+        "id_str": "162094457",
+        "name": "Nick",
+        "screen_name": "angry_eyebrowz",
+        "location": "This Island Earth",
+        "description": "The son of poor turd farmers. Started from the bottom, now I'm on Twitter.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2595,
+        "friends_count": 2276,
+        "listed_count": 35,
+        "created_at": "Fri Jul 02 17:51:55 +0000 2010",
+        "favourites_count": 13899,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6293,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4C7438",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/208605103\/twitter_bckgrnd.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/208605103\/twitter_bckgrnd.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617723296553897984\/UTPY7k-f_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617723296553897984\/UTPY7k-f_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/162094457\/1433860072",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "41321B",
+        "profile_sidebar_fill_color": "A3AAB2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 94,
+      "favorite_count": 163,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [85, 102]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 94,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [105, 122]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "angry_eyebrowz",
+        "name": "Nick",
+        "id": 162094457,
+        "id_str": "162094457",
+        "indices": [3, 18]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:01 +0000 2015",
+    "id": 617781245477392384,
+    "id_str": "617781245477392384",
+    "text": "RT @Hollyorange8: Hippos are hipsters of the animal world #FakeHipsterFacts @HashFakeFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2915366468,
+      "id_str": "2915366468",
+      "name": "Rain E",
+      "screen_name": "Rainearthimbue",
+      "location": "Seattle, Washington, USA",
+      "description": "Not all those who wander are lost. Some are seeking WiFi\u2026 Writer, voice talent, photographer, funny guy. I do my own stunts. #HashtagWarrior #LOTR #TheHobbit",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 919,
+      "friends_count": 1953,
+      "listed_count": 15,
+      "created_at": "Mon Dec 01 07:04:40 +0000 2014",
+      "favourites_count": 6933,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5209,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617474332135047168\/8Q2kWgV0_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617474332135047168\/8Q2kWgV0_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2915366468\/1434530511",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:25:16 +0000 2015",
+      "id": 617776274736480256,
+      "id_str": "617776274736480256",
+      "text": "Hippos are hipsters of the animal world #FakeHipsterFacts @HashFakeFacts",
+      "source": "\u003ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003eiOS\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2763021482,
+        "id_str": "2763021482",
+        "name": "\u2600\ufe0fHolly Happily",
+        "screen_name": "Hollyorange8",
+        "location": "idk where I am",
+        "description": "just a clumsy gal sayin some stuff.. #HashtagWarriorPrincess.. follow me, I'll lead you to safety, unless zombie's are involved, then not so much..",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2889,
+        "friends_count": 2469,
+        "listed_count": 52,
+        "created_at": "Sun Aug 24 16:20:57 +0000 2014",
+        "favourites_count": 29818,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21911,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme19\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme19\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/600836692044427265\/ivB0VSDX_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/600836692044427265\/ivB0VSDX_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2763021482\/1431205002",
+        "profile_link_color": "FAA346",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [40, 57]
+        }],
+        "symbols": [],
+        "user_mentions": [{
+          "screen_name": "HashFakeFacts",
+          "name": "#FakeFacts",
+          "id": 3060304998,
+          "id_str": "3060304998",
+          "indices": [58, 72]
+        }],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [58, 75]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Hollyorange8",
+        "name": "\u2600\ufe0fHolly Happily",
+        "id": 2763021482,
+        "id_str": "2763021482",
+        "indices": [3, 16]
+      }, {
+        "screen_name": "HashFakeFacts",
+        "name": "#FakeFacts",
+        "id": 3060304998,
+        "id_str": "3060304998",
+        "indices": [76, 90]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:53 +0000 2015",
+    "id": 617781211511959552,
+    "id_str": "617781211511959552",
+    "text": "Hipster culture originated in the area currently known as the Czech Republic, hence their affinity for Prague-Rock #FakeHipsterFacts",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 778977810,
+      "id_str": "778977810",
+      "name": "Another Imposter",
+      "screen_name": "ConfusedImp",
+      "location": "",
+      "description": "The least spicy super-hero. No pronoun preferences.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 206,
+      "friends_count": 396,
+      "listed_count": 12,
+      "created_at": "Fri Aug 24 21:14:13 +0000 2012",
+      "favourites_count": 14624,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 15223,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/615110491292069888\/pzYAcVli_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/615110491292069888\/pzYAcVli_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/778977810\/1418346805",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:51 +0000 2015",
+    "id": 617781205581217793,
+    "id_str": "617781205581217793",
+    "text": "RT @Apollyphelion: I am the most under ground Rube Goldberg Artist there is https:\/\/t.co\/RvmWTHEz8U #FakeHipsterFacts #uncoolerthanyou #und\u2026",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 533723930,
+      "id_str": "533723930",
+      "name": "Rube Works Game",
+      "screen_name": "RubeWorks",
+      "location": "",
+      "description": "Rube Works: The Official Rube Goldberg Invention Game\u2014from @ElectrcEggplant, @RubeGoldberg, @UnityGames\u2014On iOS, Android, Mac, PC, Linux. http:\/\/t.co\/0HmLHi4ayl",
+      "url": "http:\/\/t.co\/U01GR2zlHF",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/U01GR2zlHF",
+            "expanded_url": "http:\/\/RubeWorks.com",
+            "display_url": "RubeWorks.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http:\/\/t.co\/0HmLHi4ayl",
+            "expanded_url": "http:\/\/facebook.com\/RubeWorks",
+            "display_url": "facebook.com\/RubeWorks",
+            "indices": [137, 159]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 3327,
+      "friends_count": 2773,
+      "listed_count": 125,
+      "created_at": "Fri Mar 23 01:21:49 +0000 2012",
+      "favourites_count": 4501,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8134,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/461127138\/RG-title-background.jpg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/461127138\/RG-title-background.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/575745807304937472\/lsXSnVlD_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/575745807304937472\/lsXSnVlD_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/533723930\/1398467167",
+      "profile_link_color": "D90000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:53:30 +0000 2015",
+      "id": 617768280082784256,
+      "id_str": "617768280082784256",
+      "text": "I am the most under ground Rube Goldberg Artist there is https:\/\/t.co\/RvmWTHEz8U #FakeHipsterFacts #uncoolerthanyou #underground #art #MOMA",
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 47618941,
+        "id_str": "47618941",
+        "name": "Donald Drake",
+        "screen_name": "Apollyphelion",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 6,
+        "listed_count": 0,
+        "created_at": "Tue Jun 16 13:08:39 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 242,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_6_normal.png",
+        "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_6_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [{
+          "text": "FakeHipsterFacts",
+          "indices": [81, 98]
+        }, {
+          "text": "uncoolerthanyou",
+          "indices": [99, 115]
+        }, {
+          "text": "underground",
+          "indices": [116, 128]
+        }, {
+          "text": "art",
+          "indices": [129, 133]
+        }, {
+          "text": "MOMA",
+          "indices": [134, 139]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [{
+          "url": "https:\/\/t.co\/RvmWTHEz8U",
+          "expanded_url": "https:\/\/www.youtube.com\/watch?v=QS7dHdp7od0",
+          "display_url": "youtube.com\/watch?v=QS7dHd\u2026",
+          "indices": [57, 80]
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FakeHipsterFacts",
+        "indices": [100, 117]
+      }, {
+        "text": "uncoolerthanyou",
+        "indices": [118, 134]
+      }, {
+        "text": "underground",
+        "indices": [135, 140]
+      }, {
+        "text": "art",
+        "indices": [139, 140]
+      }, {
+        "text": "MOMA",
+        "indices": [139, 140]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Apollyphelion",
+        "name": "Donald Drake",
+        "id": 47618941,
+        "id_str": "47618941",
+        "indices": [3, 17]
+      }],
+      "urls": [{
+        "url": "https:\/\/t.co\/RvmWTHEz8U",
+        "expanded_url": "https:\/\/www.youtube.com\/watch?v=QS7dHdp7od0",
+        "display_url": "youtube.com\/watch?v=QS7dHd\u2026",
+        "indices": [76, 99]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }],
+  "search_metadata": {
+    "completed_in": 0.052,
+    "max_id": 617781675477569536,
+    "max_id_str": "617781675477569536",
+    "next_results": "?max_id=617781205581217792&q=%2523FakeHipsterFacts&count=20&include_entities=1",
+    "query": "%2523FakeHipsterFacts",
+    "refresh_url": "?since_id=617781675477569536&q=%2523FakeHipsterFacts&include_entities=1",
+    "count": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

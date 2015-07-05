@@ -1,0 +1,2154 @@
+{
+  "statuses": [{
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:07 +0000 2015",
+    "id": 617781523261972480,
+    "id_str": "617781523261972480",
+    "text": "Tigers' Justin Verlander looked like his old self early vs. Blue ... #MotorCity  http:\/\/t.co\/wuif7wCDL7 http:\/\/t.co\/tnv8htja2Q",
+    "source": "\u003ca href=\"http:\/\/www.fanly.me\/tigers\" rel=\"nofollow\"\u003etigers_fanly\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3036396291,
+      "id_str": "3036396291",
+      "name": "Tigers Report",
+      "screen_name": "tigers_fanly",
+      "location": "Detroit, MI",
+      "description": "Download Fanly and see why it's the easiest way to keep up with the Tigers. @FanlyApp",
+      "url": "http:\/\/t.co\/1LlSFlrFTy",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/1LlSFlrFTy",
+            "expanded_url": "http:\/\/www.fanly.me\/tigers",
+            "display_url": "fanly.me\/tigers",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Sat Feb 14 10:48:57 +0000 2015",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3328,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F9461C",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/566549995004755968\/jbNn_r39_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/566549995004755968\/jbNn_r39_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3036396291\/1424003184",
+      "profile_link_color": "021540",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "MotorCity",
+        "indices": [69, 79]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/wuif7wCDL7",
+        "expanded_url": "http:\/\/www.fansleak.com\/p\/LyVAQ2ArSG",
+        "display_url": "fansleak.com\/p\/LyVAQ2ArSG",
+        "indices": [81, 103]
+      }],
+      "media": [{
+        "id": 617781522112774145,
+        "id_str": "617781522112774145",
+        "indices": [104, 126],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLNBW5VAAEeHC-.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLNBW5VAAEeHC-.jpg",
+        "url": "http:\/\/t.co\/tnv8htja2Q",
+        "display_url": "pic.twitter.com\/tnv8htja2Q",
+        "expanded_url": "http:\/\/twitter.com\/tigers_fanly\/status\/617781523261972480\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 191,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 337,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1024,
+            "h": 576,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:46:00 +0000 2015",
+    "id": 617781495113977856,
+    "id_str": "617781495113977856",
+    "text": "At this point, you kinda have to think about moving Verlander to the bullpen...right?",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 39127381,
+      "id_str": "39127381",
+      "name": "Amado Dusman",
+      "screen_name": "adusman",
+      "location": "Detroit, MI",
+      "description": "My name is Amado Dusman. I used to be a spy until...",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 184,
+      "friends_count": 202,
+      "listed_count": 3,
+      "created_at": "Sun May 10 22:43:55 +0000 2009",
+      "favourites_count": 174,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8898,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3632252463\/b9e3b0cf05cc43133d6cc969a0ac154e_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3632252463\/b9e3b0cf05cc43133d6cc969a0ac154e_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:59 +0000 2015",
+    "id": 617781488105340928,
+    "id_str": "617781488105340928",
+    "text": "More #Ohio #Students learning via online #Schools http:\/\/t.co\/qvCaJwgepb #Verlander",
+    "source": "\u003ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003etwitterfeed\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2837434932,
+      "id_str": "2837434932",
+      "name": "Lucia Noey",
+      "screen_name": "Lucia_Noey",
+      "location": "USA",
+      "description": "a believer. online study. blogger",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 399,
+      "friends_count": 642,
+      "listed_count": 53,
+      "created_at": "Thu Oct 02 02:37:15 +0000 2014",
+      "favourites_count": 34,
+      "utc_offset": 25200,
+      "time_zone": "Jakarta",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3492,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/517507207408001025\/6H5JMLOC_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/517507207408001025\/6H5JMLOC_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "Ohio",
+        "indices": [5, 10]
+      }, {
+        "text": "Students",
+        "indices": [11, 20]
+      }, {
+        "text": "Schools",
+        "indices": [41, 49]
+      }, {
+        "text": "Verlander",
+        "indices": [73, 83]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/qvCaJwgepb",
+        "expanded_url": "http:\/\/feedter.com\/?q=online+education",
+        "display_url": "feedter.com\/?q=online+educ\u2026",
+        "indices": [50, 72]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:47 +0000 2015",
+    "id": 617781439577391104,
+    "id_str": "617781439577391104",
+    "text": "Estrada just about to beat Scherzer and Verlander in the same season.",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1544470898,
+      "id_str": "1544470898",
+      "name": "Nick",
+      "screen_name": "bluejaysnick",
+      "location": "",
+      "description": "Blue Jays 42-41, 12-3-11 in series. Never forget 03 September 2014",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 379,
+      "friends_count": 264,
+      "listed_count": 14,
+      "created_at": "Tue Jun 25 01:07:09 +0000 2013",
+      "favourites_count": 896,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 42700,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000007135205\/b9dc1dbb0d1ef11b1c94524afee95ff7.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000007135205\/b9dc1dbb0d1ef11b1c94524afee95ff7.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/603771811981991936\/_oqYJvDb_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/603771811981991936\/_oqYJvDb_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1544470898\/1411933580",
+      "profile_link_color": "003DA5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:42 +0000 2015",
+    "id": 617781416806510593,
+    "id_str": "617781416806510593",
+    "text": "RT @Sid_Seixeiro: Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 468637290,
+      "id_str": "468637290",
+      "name": "Ellay Heys",
+      "screen_name": "EllayHeys",
+      "location": "Paris, Ontario",
+      "description": "Batman Wannabe. NY Jets Lover. Leafs Fanatic. Sports Enthusiast. Music Addict. Fast Food Connoisseur. UoG Alum. Forever A Gryphon.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 191,
+      "friends_count": 217,
+      "listed_count": 8,
+      "created_at": "Thu Jan 19 19:06:47 +0000 2012",
+      "favourites_count": 1034,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7202,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/547498039233884161\/27DZfgX3_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/547498039233884161\/27DZfgX3_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/468637290\/1353371294",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:37:44 +0000 2015",
+      "id": 617764314896797697,
+      "id_str": "617764314896797697",
+      "text": "Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 246120229,
+        "id_str": "246120229",
+        "name": "Sid Seixeiro",
+        "screen_name": "Sid_Seixeiro",
+        "location": "Toronto",
+        "description": "Sportsnet",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 62941,
+        "friends_count": 158,
+        "listed_count": 500,
+        "created_at": "Wed Feb 02 04:56:44 +0000 2011",
+        "favourites_count": 4424,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4892,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 204,
+      "favorite_count": 290,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 204,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Sid_Seixeiro",
+        "name": "Sid Seixeiro",
+        "id": 246120229,
+        "id_str": "246120229",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "es",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:32 +0000 2015",
+    "id": 617781374393581568,
+    "id_str": "617781374393581568",
+    "text": "Pa\u00eds  United States \n1 #ImThatGirlfriend\n2 #greekreferendum\n3 #ThingsYouSaidAsASceneKid\n4 #USAvJPN\n7 Verlander http:\/\/t.co\/pC46qRqSiY",
+    "source": "\u003ca href=\"http:\/\/developrz.com\" rel=\"nofollow\"\u003eDeveloprz OB&CM\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2790748504,
+      "id_str": "2790748504",
+      "name": "Trend Topics Latino",
+      "screen_name": "TrendTopicsLa",
+      "location": "",
+      "description": "TT Latino Informaci\u00f3n de #TrendingTopics de las ciudades de Argentina, Chile, Colombia, Republica Dominicana, Ecuador, Guatemala, Peru\nPuerto Rico, Venezuela",
+      "url": "http:\/\/t.co\/IZbsT349od",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/IZbsT349od",
+            "expanded_url": "http:\/\/developrz.com\/",
+            "display_url": "developrz.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3135,
+      "friends_count": 1461,
+      "listed_count": 28,
+      "created_at": "Mon Sep 29 05:08:48 +0000 2014",
+      "favourites_count": 145,
+      "utc_offset": -18000,
+      "time_zone": "Mexico City",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 142180,
+      "lang": "es",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/611798604244619268\/43h5vvlc_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/611798604244619268\/43h5vvlc_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2790748504\/1434698956",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "ImThatGirlfriend",
+        "indices": [23, 40]
+      }, {
+        "text": "greekreferendum",
+        "indices": [43, 59]
+      }, {
+        "text": "ThingsYouSaidAsASceneKid",
+        "indices": [62, 87]
+      }, {
+        "text": "USAvJPN",
+        "indices": [90, 98]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [{
+        "id": 617781373827297280,
+        "id_str": "617781373827297280",
+        "indices": [111, 133],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLM4ufUMAAKBes.png",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLM4ufUMAAKBes.png",
+        "url": "http:\/\/t.co\/pC46qRqSiY",
+        "display_url": "pic.twitter.com\/pC46qRqSiY",
+        "expanded_url": "http:\/\/twitter.com\/TrendTopicsLa\/status\/617781374393581568\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 170,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 375,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 300,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:29 +0000 2015",
+    "id": 617781363677081600,
+    "id_str": "617781363677081600",
+    "text": "RT @Sid_Seixeiro: Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 797213834,
+      "id_str": "797213834",
+      "name": "Liam Rivard",
+      "screen_name": "liamrivard",
+      "location": "Cambridge Ontario",
+      "description": "I like baseball, movies, good clothes, fast cars, whiskey, and you... what else you need to know?",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 188,
+      "friends_count": 182,
+      "listed_count": 2,
+      "created_at": "Sun Sep 02 01:03:10 +0000 2012",
+      "favourites_count": 1341,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1059,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/616441625611350016\/yATKeIZ2_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/616441625611350016\/yATKeIZ2_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/797213834\/1435108535",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:37:44 +0000 2015",
+      "id": 617764314896797697,
+      "id_str": "617764314896797697",
+      "text": "Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 246120229,
+        "id_str": "246120229",
+        "name": "Sid Seixeiro",
+        "screen_name": "Sid_Seixeiro",
+        "location": "Toronto",
+        "description": "Sportsnet",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 62941,
+        "friends_count": 158,
+        "listed_count": 500,
+        "created_at": "Wed Feb 02 04:56:44 +0000 2011",
+        "favourites_count": 4424,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4892,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 204,
+      "favorite_count": 290,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 204,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Sid_Seixeiro",
+        "name": "Sid Seixeiro",
+        "id": 246120229,
+        "id_str": "246120229",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:17 +0000 2015",
+    "id": 617781310996762624,
+    "id_str": "617781310996762624",
+    "text": "Verlander\nhttp:\/\/t.co\/pHMt44lFq2\nhttp:\/\/t.co\/EPBzppbWhH\n#\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a\n#\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a\n#\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641\n#\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2356741154,
+      "id_str": "2356741154",
+      "name": "\u0645\u0645\u062d\u0648\u0646\u0629 \u0628\u0639\u0634\u0642 \u0627\u0644\u062c\u0646\u0633",
+      "screen_name": "swam_lovdbig123",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Sat Feb 22 18:30:10 +0000 2014",
+      "favourites_count": 33,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 478,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/437293637253087232\/0Q9vQxx3_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/437293637253087232\/0Q9vQxx3_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a",
+        "indices": [56, 77]
+      }, {
+        "text": "\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a",
+        "indices": [78, 99]
+      }, {
+        "text": "\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641",
+        "indices": [100, 114]
+      }, {
+        "text": "\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/pHMt44lFq2",
+        "expanded_url": "http:\/\/goo.gl\/z6ASND",
+        "display_url": "goo.gl\/z6ASND",
+        "indices": [10, 32]
+      }, {
+        "url": "http:\/\/t.co\/EPBzppbWhH",
+        "expanded_url": "http:\/\/goo.gl\/QI9FxX",
+        "display_url": "goo.gl\/QI9FxX",
+        "indices": [33, 55]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:13 +0000 2015",
+    "id": 617781297314791424,
+    "id_str": "617781297314791424",
+    "text": "Verlander pitched for the USA national baseball team in 2003 and helped the USA to a silver medal in the Pan American Games.",
+    "source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eMobile Web (M2)\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3226039220,
+      "id_str": "3226039220",
+      "name": "Noah Williams",
+      "screen_name": "NoahWilliamsNN",
+      "location": "usa",
+      "description": "Bacon maven. Wannabe travel specialist. Beer aficionado. Passionate twitter buff. Total analyst. Music nerd. Award-winning coffee ninja.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 749,
+      "friends_count": 1990,
+      "listed_count": 9,
+      "created_at": "Mon May 25 09:48:06 +0000 2015",
+      "favourites_count": 1195,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4561,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/602773267435237376\/1MX0SUF__normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/602773267435237376\/1MX0SUF__normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:10 +0000 2015",
+    "id": 617781284568440833,
+    "id_str": "617781284568440833",
+    "text": "Verlander\nhttp:\/\/t.co\/R8Zydv2hPj\nhttp:\/\/t.co\/85oOcoptEz\n#\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a\n#\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a\n#\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641\n#\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2162612556,
+      "id_str": "2162612556",
+      "name": "\u0645\u062a\u0632\u0648\u062c\u0647 \u0641\u0631\u064a",
+      "screen_name": "lopam_pvlov605",
+      "location": "",
+      "description": "#\u0643\u0644\u0628\u0629 #\u0639\u0645\u0647 #\u062a\u062a\u0646\u0627\u0643 #\u0645\u062a\u0639\u0647 #\u062c\u0646\u0633 #\u062c\u0646\u0648\u0628\u064a\u0647 #\u0643\u0644\u0628\u0627\u062a #\u0639\u0627\u0647\u0631\u0647 #\u0645\u0643\u0627\u0648\u064a #\u062f\u064a\u0627\u062b\u0647 #\u0645\u0634\u062a\u0647\u064a #\u0627\u0641\u0644\u0627\u0645 \n#\u0645\u0648\u0644 #\u0628\u062f\u0648\u064a\u0629 #\u062a\u062c\u0633\u0633 #\u062a\u0641\u0631\u064a\u0634 #\u0645\u0635 #\u0644\u062d\u0633 #\u0645\u0639\u0636\u0644 #\u0631\u062c\u0648\u0644\u064a #\u0632\u0628 #\u0648\u0633\u064a\u0645 #\u0633\u0643\u0627\u064a\u0628 #\u0643\u064a\u0643 #\u0645\u0633\u0627\u062c\n#\u0645\u0631\u0627\u0647",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 296,
+      "friends_count": 0,
+      "listed_count": 1,
+      "created_at": "Tue Oct 29 10:51:13 +0000 2013",
+      "favourites_count": 30,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6502,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/565602128287105024\/Oul5MlKN_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/565602128287105024\/Oul5MlKN_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a",
+        "indices": [56, 77]
+      }, {
+        "text": "\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a",
+        "indices": [78, 99]
+      }, {
+        "text": "\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641",
+        "indices": [100, 114]
+      }, {
+        "text": "\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/R8Zydv2hPj",
+        "expanded_url": "http:\/\/goo.gl\/pkswDG",
+        "display_url": "goo.gl\/pkswDG",
+        "indices": [10, 32]
+      }, {
+        "url": "http:\/\/t.co\/85oOcoptEz",
+        "expanded_url": "http:\/\/goo.gl\/g5GghB",
+        "display_url": "goo.gl\/g5GghB",
+        "indices": [33, 55]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:45:02 +0000 2015",
+    "id": 617781248493129728,
+    "id_str": "617781248493129728",
+    "text": "@matthewbmowery So Verlander got roughed up a little today?",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": 617780632337391616,
+    "in_reply_to_status_id_str": "617780632337391616",
+    "in_reply_to_user_id": 118585450,
+    "in_reply_to_user_id_str": "118585450",
+    "in_reply_to_screen_name": "matthewbmowery",
+    "user": {
+      "id": 1575877765,
+      "id_str": "1575877765",
+      "name": "Morality Is Freedom",
+      "screen_name": "MoralsToFreedom",
+      "location": "Earth",
+      "description": "Cannot have a free society without a moral society. God, Family, Country. Retired attorney, now business owner. #WhoIsBenOp #tcot",
+      "url": "http:\/\/t.co\/ZHivwZU2vZ",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/ZHivwZU2vZ",
+            "expanded_url": "http:\/\/moralityisfreedom.wordpress.com",
+            "display_url": "moralityisfreedom.wordpress.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3827,
+      "friends_count": 3953,
+      "listed_count": 48,
+      "created_at": "Sun Jul 07 19:15:35 +0000 2013",
+      "favourites_count": 11288,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13092,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614539879905497088\/BGL_cm_j_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614539879905497088\/BGL_cm_j_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1575877765\/1435352600",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "matthewbmowery",
+        "name": "Matthew B. Mowery",
+        "id": 118585450,
+        "id_str": "118585450",
+        "indices": [0, 15]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:59 +0000 2015",
+    "id": 617781236140871680,
+    "id_str": "617781236140871680",
+    "text": "#Hair Removal for a Stunning #Summer Look  #Verlander",
+    "source": "\u003ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003etwitterfeed\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1938287665,
+      "id_str": "1938287665",
+      "name": "Most hair health",
+      "screen_name": "innahanderson1",
+      "location": "",
+      "description": "When it comes to healthy hair, it's not just what you put on your tresses that count your diet matters, Still, you have a lot more leverage than you might think",
+      "url": "http:\/\/t.co\/IeGtWTH5fx",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/IeGtWTH5fx",
+            "expanded_url": "http:\/\/1blog-strong.blogspot.com\/",
+            "display_url": "1blog-strong.blogspot.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1316,
+      "friends_count": 1559,
+      "listed_count": 211,
+      "created_at": "Sat Oct 05 17:04:24 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19330,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000575131600\/0e11f146e0f59fa298080fcf03035381_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000575131600\/0e11f146e0f59fa298080fcf03035381_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1938287665\/1381403047",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "Hair",
+        "indices": [0, 5]
+      }, {
+        "text": "Summer",
+        "indices": [29, 36]
+      }, {
+        "text": "Verlander",
+        "indices": [43, 53]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:57 +0000 2015",
+    "id": 617781227957977088,
+    "id_str": "617781227957977088",
+    "text": "Verlander\nhttp:\/\/t.co\/OGECkR8lyw\nhttp:\/\/t.co\/Aq9OxMOcF0\n#\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a\n#\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a\n#\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641\n#\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2401200019,
+      "id_str": "2401200019",
+      "name": "\u0632\u0628\u0643 \u0641\u0649 \u0637\u064a\u0632\u0649 \u062c\u0627\u0627\u0627\u0627\u0645\u062f",
+      "screen_name": "dwcm_lovbig252",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 66,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Fri Mar 21 08:10:12 +0000 2014",
+      "favourites_count": 13,
+      "utc_offset": 10800,
+      "time_zone": "Bucharest",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 973,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/446921906411687936\/aeKKHFs2_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/446921906411687936\/aeKKHFs2_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a",
+        "indices": [56, 77]
+      }, {
+        "text": "\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a",
+        "indices": [78, 99]
+      }, {
+        "text": "\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641",
+        "indices": [100, 114]
+      }, {
+        "text": "\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/OGECkR8lyw",
+        "expanded_url": "http:\/\/goo.gl\/RMq30J",
+        "display_url": "goo.gl\/RMq30J",
+        "indices": [10, 32]
+      }, {
+        "url": "http:\/\/t.co\/Aq9OxMOcF0",
+        "expanded_url": "http:\/\/goo.gl\/1vqQwI",
+        "display_url": "goo.gl\/1vqQwI",
+        "indices": [33, 55]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:54 +0000 2015",
+    "id": 617781216578678784,
+    "id_str": "617781216578678784",
+    "text": "RT @Sid_Seixeiro: Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 366255164,
+      "id_str": "366255164",
+      "name": "Lucas Jorg #30",
+      "screen_name": "Lucas_Jorg",
+      "location": "",
+      "description": "#30 Pain is temporary. It may last for a minute, an hour or maybe even a year. But eventually it will subside.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 76,
+      "friends_count": 256,
+      "listed_count": 0,
+      "created_at": "Thu Sep 01 21:12:47 +0000 2011",
+      "favourites_count": 141,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 815,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "054AFA",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000016071243\/b63ffc28cb74dfeb88d09a415ce787a0.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000016071243\/b63ffc28cb74dfeb88d09a415ce787a0.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/564533068459806720\/2UBDBUO9_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/564533068459806720\/2UBDBUO9_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/366255164\/1420583855",
+      "profile_link_color": "0511FC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 18:37:44 +0000 2015",
+      "id": 617764314896797697,
+      "id_str": "617764314896797697",
+      "text": "Before you rip on Justin Verlander remember he's dating Kate Upton which means he's better than you.",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 246120229,
+        "id_str": "246120229",
+        "name": "Sid Seixeiro",
+        "screen_name": "Sid_Seixeiro",
+        "location": "Toronto",
+        "description": "Sportsnet",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 62941,
+        "friends_count": 158,
+        "listed_count": 500,
+        "created_at": "Wed Feb 02 04:56:44 +0000 2011",
+        "favourites_count": 4424,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4892,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/520334927217582081\/fRzTwBa-_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 204,
+      "favorite_count": 290,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 204,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Sid_Seixeiro",
+        "name": "Sid Seixeiro",
+        "id": 246120229,
+        "id_str": "246120229",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:52 +0000 2015",
+    "id": 617781207154204672,
+    "id_str": "617781207154204672",
+    "text": "Verlander\nhttp:\/\/t.co\/F28Gm7tsTu\nhttp:\/\/t.co\/bhzM0WDqOi\n#\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a\n#\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a\n#\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641\n#\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1900547256,
+      "id_str": "1900547256",
+      "name": "\u0632\u0648\u062c\u0629 \u0647\u0627\u064a\u062c\u0629 \u0628\u0633 \u062e\u0627\u064a\u0641\u0629 ",
+      "screen_name": "kollm_losdls145",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 155,
+      "friends_count": 0,
+      "listed_count": 1,
+      "created_at": "Tue Sep 24 13:59:56 +0000 2013",
+      "favourites_count": 48,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 997,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/598224975410008064\/6JbmhWpA_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/598224975410008064\/6JbmhWpA_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a",
+        "indices": [56, 77]
+      }, {
+        "text": "\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a",
+        "indices": [78, 99]
+      }, {
+        "text": "\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641",
+        "indices": [100, 114]
+      }, {
+        "text": "\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/F28Gm7tsTu",
+        "expanded_url": "http:\/\/goo.gl\/S1zUav",
+        "display_url": "goo.gl\/S1zUav",
+        "indices": [10, 32]
+      }, {
+        "url": "http:\/\/t.co\/bhzM0WDqOi",
+        "expanded_url": "http:\/\/goo.gl\/x4oaz1",
+        "display_url": "goo.gl\/x4oaz1",
+        "indices": [33, 55]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:45 +0000 2015",
+    "id": 617781179840761856,
+    "id_str": "617781179840761856",
+    "text": "@matthewbmowery Can't win when giving up 9 runs; it pitching that ruining Tigers including Verlander's contract.",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": 617780632337391616,
+    "in_reply_to_status_id_str": "617780632337391616",
+    "in_reply_to_user_id": 118585450,
+    "in_reply_to_user_id_str": "118585450",
+    "in_reply_to_screen_name": "matthewbmowery",
+    "user": {
+      "id": 237906547,
+      "id_str": "237906547",
+      "name": "Bob Bunnell",
+      "screen_name": "evangecube",
+      "location": " KY",
+      "description": "40 plus years in ministry; would like epitaph for tombstone if Jesus tarries, 'he tried to help people come to know Jesus.'",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 303,
+      "friends_count": 448,
+      "listed_count": 4,
+      "created_at": "Thu Jan 13 22:39:05 +0000 2011",
+      "favourites_count": 24,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3271,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/539499444241063936\/TctkGRnu_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/539499444241063936\/TctkGRnu_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "matthewbmowery",
+        "name": "Matthew B. Mowery",
+        "id": 118585450,
+        "id_str": "118585450",
+        "indices": [0, 15]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:42 +0000 2015",
+    "id": 617781166272151552,
+    "id_str": "617781166272151552",
+    "text": "#Nikon Coolpix P610 Express #Review: A 60X zoom makes this an extra-ordinary experience http:\/\/t.co\/3ZAlaZvEwZ #Verlander: The Nik...",
+    "source": "\u003ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003etwitterfeed\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 309081801,
+      "id_str": "309081801",
+      "name": "DSLR Camera",
+      "screen_name": "D_S_L_R",
+      "location": "WorldWide",
+      "description": "Tweet about Canon, Nikon, Leica, DSLR, Camera, Photography, Photographer http:\/\/t.co\/DDVwkZrnOv",
+      "url": "http:\/\/t.co\/DDVwkZrnOv",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/DDVwkZrnOv",
+            "expanded_url": "http:\/\/bit.ly\/1D2zPxP",
+            "display_url": "bit.ly\/1D2zPxP",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http:\/\/t.co\/DDVwkZrnOv",
+            "expanded_url": "http:\/\/bit.ly\/1D2zPxP",
+            "display_url": "bit.ly\/1D2zPxP",
+            "indices": [73, 95]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 538,
+      "friends_count": 679,
+      "listed_count": 71,
+      "created_at": "Wed Jun 01 14:08:41 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": 25200,
+      "time_zone": "Jakarta",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7640,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1377522043\/rr_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1377522043\/rr_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "Nikon",
+        "indices": [0, 6]
+      }, {
+        "text": "Review",
+        "indices": [28, 35]
+      }, {
+        "text": "Verlander",
+        "indices": [111, 121]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/3ZAlaZvEwZ",
+        "expanded_url": "http:\/\/feedter.com\/?q=Nikon+DSLR",
+        "display_url": "feedter.com\/?q=Nikon+DSLR",
+        "indices": [88, 110]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:42 +0000 2015",
+    "id": 617781164409905152,
+    "id_str": "617781164409905152",
+    "text": "#Nikon Coolpix P610 Express #Review: A 60X zoom makes this an extra-ordinary experience http:\/\/t.co\/E7c97bHd5z #Verlander: The Nik...",
+    "source": "\u003ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003etwitterfeed\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2478480620,
+      "id_str": "2478480620",
+      "name": "DSLR Camera News",
+      "screen_name": "EOS_DSLR",
+      "location": "WorldWide",
+      "description": "Latest News on #DSLR #Camera & Accessories. #Canon, #Nikon & more.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 318,
+      "friends_count": 698,
+      "listed_count": 52,
+      "created_at": "Mon May 05 15:04:02 +0000 2014",
+      "favourites_count": 3,
+      "utc_offset": 25200,
+      "time_zone": "Jakarta",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10171,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/463337310818295808\/VcgHJuIf_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/463337310818295808\/VcgHJuIf_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "Nikon",
+        "indices": [0, 6]
+      }, {
+        "text": "Review",
+        "indices": [28, 35]
+      }, {
+        "text": "Verlander",
+        "indices": [111, 121]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/E7c97bHd5z",
+        "expanded_url": "http:\/\/feedter.com\/?q=Nikon+DSLR",
+        "display_url": "feedter.com\/?q=Nikon+DSLR",
+        "indices": [88, 110]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:35 +0000 2015",
+    "id": 617781135360135168,
+    "id_str": "617781135360135168",
+    "text": "was gonna make \"'Why Wont NYM Lock Harvey Up For Good' crowd clearly not Verlander owners\" joke but they prob DO OWN Verlander. cuz stupid.",
+    "source": "\u003ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003eCloudhopper\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 141210084,
+      "id_str": "141210084",
+      "name": "Adam M. Mirchin",
+      "screen_name": "AMirch729",
+      "location": "",
+      "description": "NYG\/NYM guy; You Can Feel Good About Hood",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 571,
+      "friends_count": 1965,
+      "listed_count": 26,
+      "created_at": "Fri May 07 13:08:19 +0000 2010",
+      "favourites_count": 37,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 48366,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1212110228\/heavgate_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1212110228\/heavgate_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "nl",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:34 +0000 2015",
+    "id": 617781131052732416,
+    "id_str": "617781131052732416",
+    "text": "Verlander\nhttp:\/\/t.co\/VZoAO6YbX2\nhttp:\/\/t.co\/HbHS0ZqH62\n#\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a\n#\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a\n#\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641\n#\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+    "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2357032700,
+      "id_str": "2357032700",
+      "name": "\u0643\u0633\u064a_\u0645\u0648\u0644\u0639",
+      "screen_name": "wfam_loeig127",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 64,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Sat Feb 22 22:32:52 +0000 2014",
+      "favourites_count": 30,
+      "utc_offset": 10800,
+      "time_zone": "Athens",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 372,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/437354726762369025\/Szi-FizI_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/437354726762369025\/Szi-FizI_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "\u0634\u064a_\u0646\u0627\u0642\u0635\u0643_\u0641\u064a_\u0630\u0627_\u0627\u0644\u0648\u0642\u062a",
+        "indices": [56, 77]
+      }, {
+        "text": "\u0627\u0633\u062a\u0642\u0627\u0644\u0647_\u062a\u0631\u0643\u064a_\u0627\u0644\u0633\u062f\u064a\u0631\u064a",
+        "indices": [78, 99]
+      }, {
+        "text": "\u0627\u062a\u0646\u062d_\u0644\u0645\u0627_\u0627\u0634\u0648\u0641",
+        "indices": [100, 114]
+      }, {
+        "text": "\u062a\u062f\u0634\u064a\u0646_\u0641\u0631\u0642\u0647_\u0627\u0644\u0645\u062c\u062f",
+        "indices": [115, 132]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "http:\/\/t.co\/VZoAO6YbX2",
+        "expanded_url": "http:\/\/goo.gl\/z6ASND",
+        "display_url": "goo.gl\/z6ASND",
+        "indices": [10, 32]
+      }, {
+        "url": "http:\/\/t.co\/HbHS0ZqH62",
+        "expanded_url": "http:\/\/goo.gl\/QI9FxX",
+        "display_url": "goo.gl\/QI9FxX",
+        "indices": [33, 55]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "nl"
+  }],
+  "search_metadata": {
+    "completed_in": 0.074,
+    "max_id": 617781523261972480,
+    "max_id_str": "617781523261972480",
+    "next_results": "?max_id=617781131052732415&q=Verlander&count=20&include_entities=1",
+    "query": "Verlander",
+    "refresh_url": "?since_id=617781523261972480&q=Verlander&include_entities=1",
+    "count": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

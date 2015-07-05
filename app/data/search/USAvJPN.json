@@ -1,0 +1,3862 @@
+{
+  "statuses": [{
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:28 +0000 2015",
+    "id": 617781106306322432,
+    "id_str": "617781106306322432",
+    "text": "RT @vj44: RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2873245599,
+      "id_str": "2873245599",
+      "name": "BetterCallPaul",
+      "screen_name": "therealpcorrell",
+      "location": "",
+      "description": "Husband, Father, Hokie, Software Developer at @ConsultwithCase",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 114,
+      "friends_count": 303,
+      "listed_count": 6,
+      "created_at": "Wed Nov 12 03:08:21 +0000 2014",
+      "favourites_count": 181,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1551,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/533993736175239169\/82FO2ay9_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/533993736175239169\/82FO2ay9_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2873245599\/1416148987",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:35:47 +0000 2015",
+      "id": 617733624146853888,
+      "id_str": "617733624146853888",
+      "text": "RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 595515713,
+        "id_str": "595515713",
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "location": "Washington, DC",
+        "description": "Senior Advisor to President Barack Obama. Chair of the White House Council on Women and Girls. http:\/\/t.co\/eVVzoBb3Zr",
+        "url": "http:\/\/wh.gov\/zd9",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/wh.gov\/zd9",
+              "expanded_url": null,
+              "indices": [0, 17]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/eVVzoBb3Zr",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [95, 117]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 98293,
+        "friends_count": 436,
+        "listed_count": 1594,
+        "created_at": "Thu May 31 14:10:41 +0000 2012",
+        "favourites_count": 317,
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3349,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/595515713\/1401375597",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1032,
+      "favorite_count": 590,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [30, 34]
+        }, {
+          "text": "USWNT",
+          "indices": [55, 61]
+        }, {
+          "text": "USAvJPN",
+          "indices": [62, 70]
+        }, {
+          "text": "SheBelieves",
+          "indices": [71, 83]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617733620107726848,
+          "id_str": "617733620107726848",
+          "indices": [84, 106],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "url": "http:\/\/t.co\/dv7NFq6mgq",
+          "display_url": "pic.twitter.com\/dv7NFq6mgq",
+          "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 409,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 232,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1023,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1032,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "USWNT",
+        "indices": [65, 71]
+      }, {
+        "text": "USAvJPN",
+        "indices": [72, 80]
+      }, {
+        "text": "SheBelieves",
+        "indices": [81, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vj44",
+        "name": "Valerie Jarrett",
+        "id": 595515713,
+        "id_str": "595515713",
+        "indices": [3, 8]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617733620107726848,
+        "id_str": "617733620107726848",
+        "indices": [94, 116],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "url": "http:\/\/t.co\/dv7NFq6mgq",
+        "display_url": "pic.twitter.com\/dv7NFq6mgq",
+        "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 409,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 232,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1023,
+            "h": 699,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617733624146853888,
+        "source_status_id_str": "617733624146853888",
+        "source_user_id": 595515713,
+        "source_user_id_str": "595515713"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:27 +0000 2015",
+    "id": 617781101650690048,
+    "id_str": "617781101650690048",
+    "text": "RT @VP: VP Biden trips to the #WorldCup:\n\u2713 2010 in South Africa\n\u2713 2014 in Brazil\n\u2713 2015 in Canada\n#USAvJPN #USWNT #USA http:\/\/t.co\/yFIIt0Ku\u2026",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 29232480,
+      "id_str": "29232480",
+      "name": "College Dems of MA",
+      "screen_name": "CollegeDemsofMA",
+      "location": "77 Summer Street, Boston",
+      "description": "The official youth outreach arm of @MassDems and charted state federation of @CollegeDems. Facebook: http:\/\/t.co\/Tf1npfudYX Instagram: @macollegedems",
+      "url": "http:\/\/t.co\/ZpSXLIRqrH",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/ZpSXLIRqrH",
+            "expanded_url": "http:\/\/MACollegeDems.org",
+            "display_url": "MACollegeDems.org",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": [{
+            "url": "http:\/\/t.co\/Tf1npfudYX",
+            "expanded_url": "http:\/\/bit.ly\/CollegeDemsofMA",
+            "display_url": "bit.ly\/CollegeDemsofMA",
+            "indices": [101, 123]
+          }]
+        }
+      },
+      "protected": false,
+      "followers_count": 4427,
+      "friends_count": 3488,
+      "listed_count": 126,
+      "created_at": "Mon Apr 06 16:19:36 +0000 2009",
+      "favourites_count": 394,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6018,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "174FA3",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/455446825441304577\/xOfCEioL.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/455446825441304577\/xOfCEioL.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/595301678225739776\/c_eqSD4m_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/595301678225739776\/c_eqSD4m_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/29232480\/1416273242",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:05:41 +0000 2015",
+      "id": 617726048881508353,
+      "id_str": "617726048881508353",
+      "text": "VP Biden trips to the #WorldCup:\n\u2713 2010 in South Africa\n\u2713 2014 in Brazil\n\u2713 2015 in Canada\n#USAvJPN #USWNT #USA http:\/\/t.co\/yFIIt0Kuus",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 325830217,
+        "id_str": "325830217",
+        "name": "Vice President Biden",
+        "screen_name": "VP",
+        "location": "Washington, D.C.",
+        "description": "This account is run by the Office of the Vice President. Tweets from VP Biden are signed \u2013VP. Tweets may be archived. More at http:\/\/t.co\/KcS2bmEJun.",
+        "url": "http:\/\/t.co\/NgUd6eRXCR",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/NgUd6eRXCR",
+              "expanded_url": "http:\/\/whitehouse.gov",
+              "display_url": "whitehouse.gov",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/KcS2bmEJun",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [126, 148]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 574134,
+        "friends_count": 109,
+        "listed_count": 5874,
+        "created_at": "Tue Jun 28 23:07:42 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2961,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/283255320\/wh_twitter_back.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/283255320\/wh_twitter_back.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/464835807837044737\/vO0cnKR1_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/464835807837044737\/vO0cnKR1_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/325830217\/1399661418",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 297,
+      "favorite_count": 669,
+      "entities": {
+        "hashtags": [{
+          "text": "WorldCup",
+          "indices": [22, 31]
+        }, {
+          "text": "USAvJPN",
+          "indices": [90, 98]
+        }, {
+          "text": "USWNT",
+          "indices": [99, 105]
+        }, {
+          "text": "USA",
+          "indices": [106, 110]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617726045358309376,
+          "id_str": "617726045358309376",
+          "indices": [111, 133],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKakL4WwAALjhJ.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKakL4WwAALjhJ.jpg",
+          "url": "http:\/\/t.co\/yFIIt0Kuus",
+          "display_url": "pic.twitter.com\/yFIIt0Kuus",
+          "expanded_url": "http:\/\/twitter.com\/VP\/status\/617726048881508353\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 599,
+              "h": 399,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 599,
+              "h": 399,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 297,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "WorldCup",
+        "indices": [30, 39]
+      }, {
+        "text": "USAvJPN",
+        "indices": [98, 106]
+      }, {
+        "text": "USWNT",
+        "indices": [107, 113]
+      }, {
+        "text": "USA",
+        "indices": [114, 118]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "VP",
+        "name": "Vice President Biden",
+        "id": 325830217,
+        "id_str": "325830217",
+        "indices": [3, 6]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617726045358309376,
+        "id_str": "617726045358309376",
+        "indices": [119, 140],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKakL4WwAALjhJ.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKakL4WwAALjhJ.jpg",
+        "url": "http:\/\/t.co\/yFIIt0Kuus",
+        "display_url": "pic.twitter.com\/yFIIt0Kuus",
+        "expanded_url": "http:\/\/twitter.com\/VP\/status\/617726048881508353\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 226,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 599,
+            "h": 399,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 599,
+            "h": 399,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617726048881508353,
+        "source_status_id_str": "617726048881508353",
+        "source_user_id": 325830217,
+        "source_user_id_str": "325830217"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:24 +0000 2015",
+    "id": 617781090380451840,
+    "id_str": "617781090380451840",
+    "text": "RT @vj44: RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 126798863,
+      "id_str": "126798863",
+      "name": "john jung",
+      "screen_name": "johncupid",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 94,
+      "friends_count": 135,
+      "listed_count": 1,
+      "created_at": "Sat Mar 27 01:36:12 +0000 2010",
+      "favourites_count": 582,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3732,
+      "lang": "ko",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3432615153\/1e2f2b061225618522a5b3cb4ec600d2_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3432615153\/1e2f2b061225618522a5b3cb4ec600d2_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/126798863\/1389605463",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:35:47 +0000 2015",
+      "id": 617733624146853888,
+      "id_str": "617733624146853888",
+      "text": "RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 595515713,
+        "id_str": "595515713",
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "location": "Washington, DC",
+        "description": "Senior Advisor to President Barack Obama. Chair of the White House Council on Women and Girls. http:\/\/t.co\/eVVzoBb3Zr",
+        "url": "http:\/\/wh.gov\/zd9",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/wh.gov\/zd9",
+              "expanded_url": null,
+              "indices": [0, 17]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/eVVzoBb3Zr",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [95, 117]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 98293,
+        "friends_count": 436,
+        "listed_count": 1594,
+        "created_at": "Thu May 31 14:10:41 +0000 2012",
+        "favourites_count": 317,
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3349,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/595515713\/1401375597",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1032,
+      "favorite_count": 590,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [30, 34]
+        }, {
+          "text": "USWNT",
+          "indices": [55, 61]
+        }, {
+          "text": "USAvJPN",
+          "indices": [62, 70]
+        }, {
+          "text": "SheBelieves",
+          "indices": [71, 83]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617733620107726848,
+          "id_str": "617733620107726848",
+          "indices": [84, 106],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "url": "http:\/\/t.co\/dv7NFq6mgq",
+          "display_url": "pic.twitter.com\/dv7NFq6mgq",
+          "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 409,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 232,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1023,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1032,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "USWNT",
+        "indices": [65, 71]
+      }, {
+        "text": "USAvJPN",
+        "indices": [72, 80]
+      }, {
+        "text": "SheBelieves",
+        "indices": [81, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vj44",
+        "name": "Valerie Jarrett",
+        "id": 595515713,
+        "id_str": "595515713",
+        "indices": [3, 8]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617733620107726848,
+        "id_str": "617733620107726848",
+        "indices": [94, 116],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "url": "http:\/\/t.co\/dv7NFq6mgq",
+        "display_url": "pic.twitter.com\/dv7NFq6mgq",
+        "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 409,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 232,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1023,
+            "h": 699,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617733624146853888,
+        "source_status_id_str": "617733624146853888",
+        "source_user_id": 595515713,
+        "source_user_id_str": "595515713"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:24 +0000 2015",
+    "id": 617781089826942976,
+    "id_str": "617781089826942976",
+    "text": "RT @vj44: RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3254649131,
+      "id_str": "3254649131",
+      "name": "Yvonne Vissers",
+      "screen_name": "YvonneYvissers",
+      "location": "",
+      "description": "Be kind. Help others. You never know when a simple smile or hello can make someones day better! I'm #ScandalAddicted #Gladiator #TeamOlitz",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14,
+      "friends_count": 52,
+      "listed_count": 0,
+      "created_at": "Thu May 14 20:11:00 +0000 2015",
+      "favourites_count": 182,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 183,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614460614447091712\/Zvo95a3o_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614460614447091712\/Zvo95a3o_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3254649131\/1432301454",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:35:47 +0000 2015",
+      "id": 617733624146853888,
+      "id_str": "617733624146853888",
+      "text": "RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 595515713,
+        "id_str": "595515713",
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "location": "Washington, DC",
+        "description": "Senior Advisor to President Barack Obama. Chair of the White House Council on Women and Girls. http:\/\/t.co\/eVVzoBb3Zr",
+        "url": "http:\/\/wh.gov\/zd9",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/wh.gov\/zd9",
+              "expanded_url": null,
+              "indices": [0, 17]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/eVVzoBb3Zr",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [95, 117]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 98293,
+        "friends_count": 436,
+        "listed_count": 1594,
+        "created_at": "Thu May 31 14:10:41 +0000 2012",
+        "favourites_count": 317,
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3349,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/595515713\/1401375597",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1032,
+      "favorite_count": 590,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [30, 34]
+        }, {
+          "text": "USWNT",
+          "indices": [55, 61]
+        }, {
+          "text": "USAvJPN",
+          "indices": [62, 70]
+        }, {
+          "text": "SheBelieves",
+          "indices": [71, 83]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617733620107726848,
+          "id_str": "617733620107726848",
+          "indices": [84, 106],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "url": "http:\/\/t.co\/dv7NFq6mgq",
+          "display_url": "pic.twitter.com\/dv7NFq6mgq",
+          "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 409,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 232,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1023,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1032,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "USWNT",
+        "indices": [65, 71]
+      }, {
+        "text": "USAvJPN",
+        "indices": [72, 80]
+      }, {
+        "text": "SheBelieves",
+        "indices": [81, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vj44",
+        "name": "Valerie Jarrett",
+        "id": 595515713,
+        "id_str": "595515713",
+        "indices": [3, 8]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617733620107726848,
+        "id_str": "617733620107726848",
+        "indices": [94, 116],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "url": "http:\/\/t.co\/dv7NFq6mgq",
+        "display_url": "pic.twitter.com\/dv7NFq6mgq",
+        "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 409,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 232,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1023,
+            "h": 699,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617733624146853888,
+        "source_status_id_str": "617733624146853888",
+        "source_user_id": 595515713,
+        "source_user_id_str": "595515713"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:21 +0000 2015",
+    "id": 617781078057562112,
+    "id_str": "617781078057562112",
+    "text": "@Clarissaledes You can. Have it at OUR place! ~ARD #USAvJPN",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": 617780282024857601,
+    "in_reply_to_status_id_str": "617780282024857601",
+    "in_reply_to_user_id": 1665918090,
+    "in_reply_to_user_id_str": "1665918090",
+    "in_reply_to_screen_name": "Clarissaledes",
+    "user": {
+      "id": 74452613,
+      "id_str": "74452613",
+      "name": "Applebee's",
+      "screen_name": "Applebees",
+      "location": "Your Neighborhood",
+      "description": "Your neighborhood grill & bar, the way it was always meant to be. Food, drinks & you.",
+      "url": "http:\/\/t.co\/aM4xQnWJWA",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/aM4xQnWJWA",
+            "expanded_url": "http:\/\/www.applebees.com\/",
+            "display_url": "applebees.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 468245,
+      "friends_count": 222429,
+      "listed_count": 2826,
+      "created_at": "Tue Sep 15 13:54:34 +0000 2009",
+      "favourites_count": 215701,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 408718,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/883523828\/b099542b6a73a121e406df9e3b770797.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/883523828\/b099542b6a73a121e406df9e3b770797.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/561946159124447232\/5pX633my_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/561946159124447232\/5pX633my_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/74452613\/1435759856",
+      "profile_link_color": "700A20",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DEDEDE",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [51, 59]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Clarissaledes",
+        "name": "Clarissa rEina",
+        "id": 1665918090,
+        "id_str": "1665918090",
+        "indices": [0, 14]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:16 +0000 2015",
+    "id": 617781057694400512,
+    "id_str": "617781057694400512",
+    "text": "RT @penn_state: Good luck to alumni @alikrieger &amp; @AlyssaNaeher and #USA tonight in the World Cup final! #SheBelieves #USAvJPN http:\/\/t.co\/\u2026",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 760623241,
+      "id_str": "760623241",
+      "name": "Andrea",
+      "screen_name": "a_garcia815",
+      "location": "NJ \u27a1\ufe0f PA",
+      "description": "Penn State Nursing '19 | insta: a_garcia15",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 334,
+      "friends_count": 223,
+      "listed_count": 1,
+      "created_at": "Thu Aug 16 02:20:12 +0000 2012",
+      "favourites_count": 5290,
+      "utc_offset": -10800,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13800,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/613231095350493184\/OO7IK89k_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/613231095350493184\/OO7IK89k_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/760623241\/1436065278",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:00:14 +0000 2015",
+      "id": 617769975282040832,
+      "id_str": "617769975282040832",
+      "text": "Good luck to alumni @alikrieger &amp; @AlyssaNaeher and #USA tonight in the World Cup final! #SheBelieves #USAvJPN http:\/\/t.co\/q5JLzZjFUb",
+      "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 119376050,
+        "id_str": "119376050",
+        "name": "Penn State",
+        "screen_name": "penn_state",
+        "location": "University Park, PA",
+        "description": "The official Twitter account of Penn State.",
+        "url": "http:\/\/t.co\/GefUXXlUeU",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/GefUXXlUeU",
+              "expanded_url": "http:\/\/www.psu.edu",
+              "display_url": "psu.edu",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 104627,
+        "friends_count": 778,
+        "listed_count": 915,
+        "created_at": "Wed Mar 03 13:14:00 +0000 2010",
+        "favourites_count": 2026,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15289,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "072659",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/80175471\/lion800png.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/80175471\/lion800png.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3758821119\/6040d28f252887a46e5c3b7f7a55fd79_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3758821119\/6040d28f252887a46e5c3b7f7a55fd79_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/119376050\/1431459857",
+        "profile_link_color": "104CA1",
+        "profile_sidebar_border_color": "072659",
+        "profile_sidebar_fill_color": "F5F8FF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 116,
+      "favorite_count": 175,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [56, 60]
+        }, {
+          "text": "SheBelieves",
+          "indices": [93, 105]
+        }, {
+          "text": "USAvJPN",
+          "indices": [106, 114]
+        }],
+        "symbols": [],
+        "user_mentions": [{
+          "screen_name": "alikrieger",
+          "name": "Ali Krieger",
+          "id": 29675916,
+          "id_str": "29675916",
+          "indices": [20, 31]
+        }, {
+          "screen_name": "AlyssaNaeher",
+          "name": "Alyssa Naeher",
+          "id": 123095515,
+          "id_str": "123095515",
+          "indices": [38, 51]
+        }],
+        "urls": [],
+        "media": [{
+          "id": 617769320786083840,
+          "id_str": "617769320786083840",
+          "indices": [115, 137],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJLB7JaWwAAoQ_Z.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLB7JaWwAAoQ_Z.jpg",
+          "url": "http:\/\/t.co\/q5JLzZjFUb",
+          "display_url": "pic.twitter.com\/q5JLzZjFUb",
+          "expanded_url": "http:\/\/twitter.com\/penn_state\/status\/617769975282040832\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 116,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [72, 76]
+      }, {
+        "text": "SheBelieves",
+        "indices": [109, 121]
+      }, {
+        "text": "USAvJPN",
+        "indices": [122, 130]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "penn_state",
+        "name": "Penn State",
+        "id": 119376050,
+        "id_str": "119376050",
+        "indices": [3, 14]
+      }, {
+        "screen_name": "alikrieger",
+        "name": "Ali Krieger",
+        "id": 29675916,
+        "id_str": "29675916",
+        "indices": [36, 47]
+      }, {
+        "screen_name": "AlyssaNaeher",
+        "name": "Alyssa Naeher",
+        "id": 123095515,
+        "id_str": "123095515",
+        "indices": [54, 67]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617769320786083840,
+        "id_str": "617769320786083840",
+        "indices": [131, 144],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLB7JaWwAAoQ_Z.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLB7JaWwAAoQ_Z.jpg",
+        "url": "http:\/\/t.co\/q5JLzZjFUb",
+        "display_url": "pic.twitter.com\/q5JLzZjFUb",
+        "expanded_url": "http:\/\/twitter.com\/penn_state\/status\/617769975282040832\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 576,
+            "h": 324,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 191,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 576,
+            "h": 324,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        },
+        "source_status_id": 617769975282040832,
+        "source_status_id_str": "617769975282040832",
+        "source_user_id": 119376050,
+        "source_user_id_str": "119376050"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:16 +0000 2015",
+    "id": 617781055093772288,
+    "id_str": "617781055093772288",
+    "text": "\u26bd\ufe0f #USAvJPN\nhttps:\/\/t.co\/BccKagCCnk",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2255460432,
+      "id_str": "2255460432",
+      "name": "#Minions",
+      "screen_name": "Minions",
+      "location": "",
+      "description": "In theaters July 10, 2015",
+      "url": "http:\/\/t.co\/4r9lSLktlh",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/4r9lSLktlh",
+            "expanded_url": "http:\/\/www.minionsmovie.com\/",
+            "display_url": "minionsmovie.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62759,
+      "friends_count": 16,
+      "listed_count": 163,
+      "created_at": "Fri Dec 20 20:01:09 +0000 2013",
+      "favourites_count": 196,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 236,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/544923716644130816\/eVhK6kgs.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/544923716644130816\/eVhK6kgs.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/544923334824062977\/pNXNA7Gc_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/544923334824062977\/pNXNA7Gc_normal.jpeg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2255460432\/1422986267",
+      "profile_link_color": "37758C",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 11,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [3, 11]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [{
+        "url": "https:\/\/t.co\/BccKagCCnk",
+        "expanded_url": "https:\/\/amp.twimg.com\/v\/d5a5b68c-19bf-43b7-9957-905e27680b48",
+        "display_url": "amp.twimg.com\/v\/d5a5b68c-19b\u2026",
+        "indices": [12, 35]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  }, {
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:12 +0000 2015",
+    "id": 617781042301247488,
+    "id_str": "617781042301247488",
+    "text": "RT @sabrinayoung_: #USAvJPN #SheBelieves \u26bd\ufe0f http:\/\/t.co\/92nY7icvED",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 453346233,
+      "id_str": "453346233",
+      "name": "acdye",
+      "screen_name": "RADlaaxen",
+      "location": "256",
+      "description": "Use promo code GETWEIRD to save on your Life in Color Nashville tickets! #LICNashville #THEFTARMY @radandbae",
+      "url": "http:\/\/t.co\/LGbFJUwoLE",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/LGbFJUwoLE",
+            "expanded_url": "http:\/\/radandbae.com\/etsy",
+            "display_url": "radandbae.com\/etsy",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4330,
+      "friends_count": 567,
+      "listed_count": 4,
+      "created_at": "Mon Jan 02 20:47:32 +0000 2012",
+      "favourites_count": 23469,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9264,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "05040B",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000040820320\/3eba259d27e6e4bb56e0985b6ec54310.jpeg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000040820320\/3eba259d27e6e4bb56e0985b6ec54310.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614632652797292544\/_8RsKVVF_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614632652797292544\/_8RsKVVF_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/453346233\/1427978569",
+      "profile_link_color": "0E849D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "030108",
+      "profile_text_color": "29B5A5",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:44:00 +0000 2015",
+      "id": 617780990119952385,
+      "id_str": "617780990119952385",
+      "text": "#USAvJPN #SheBelieves \u26bd\ufe0f http:\/\/t.co\/92nY7icvED",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 322396143,
+        "id_str": "322396143",
+        "name": "sabrina",
+        "screen_name": "sabrinayoung_",
+        "location": "athens",
+        "description": "the teenage witch",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 371,
+        "friends_count": 322,
+        "listed_count": 1,
+        "created_at": "Thu Jun 23 03:18:52 +0000 2011",
+        "favourites_count": 11276,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4314,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/529674658988052481\/Kg7vsQ0g.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/529674658988052481\/Kg7vsQ0g.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614097668260921344\/2TAi4xvJ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614097668260921344\/2TAi4xvJ_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/322396143\/1434343553",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [{
+          "text": "USAvJPN",
+          "indices": [0, 8]
+        }, {
+          "text": "SheBelieves",
+          "indices": [9, 21]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [{
+          "url": "http:\/\/t.co\/92nY7icvED",
+          "expanded_url": "http:\/\/twitter.com\/sabrinayoung_\/status\/617780990119952385\/photo\/1",
+          "display_url": "pic.twitter.com\/92nY7icvED",
+          "indices": [25, 47]
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [19, 27]
+      }, {
+        "text": "SheBelieves",
+        "indices": [28, 40]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "sabrinayoung_",
+        "name": "sabrina",
+        "id": 322396143,
+        "id_str": "322396143",
+        "indices": [3, 17]
+      }],
+      "urls": [{
+        "url": "http:\/\/t.co\/92nY7icvED",
+        "expanded_url": "http:\/\/twitter.com\/sabrinayoung_\/status\/617780990119952385\/photo\/1",
+        "display_url": "pic.twitter.com\/92nY7icvED",
+        "indices": [44, 66]
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:12 +0000 2015",
+    "id": 617781038475931648,
+    "id_str": "617781038475931648",
+    "text": "RT @LThompson_33: Who else wishes they were in Canada right now? \ud83d\ude2d\ud83d\ude29 #FIFAWWCFinal #USAvJPN",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1045828567,
+      "id_str": "1045828567",
+      "name": "Ha\u00a1ley",
+      "screen_name": "willetthailey",
+      "location": "",
+      "description": "OC\/ Varsity Soccer\/ Timbers\/ #RipEmilio",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 710,
+      "friends_count": 356,
+      "listed_count": 1,
+      "created_at": "Sat Dec 29 19:50:51 +0000 2012",
+      "favourites_count": 16281,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10109,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617019128163930112\/5c9HvIH__normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617019128163930112\/5c9HvIH__normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1045828567\/1435626577",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:41:21 +0000 2015",
+      "id": 617780322722189312,
+      "id_str": "617780322722189312",
+      "text": "Who else wishes they were in Canada right now? \ud83d\ude2d\ud83d\ude29 #FIFAWWCFinal #USAvJPN",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 422992625,
+        "id_str": "422992625",
+        "name": "Lauren Thompson",
+        "screen_name": "LThompson_33",
+        "location": "OR\u2708\ufe0fCO",
+        "description": "#11 \u26bd\ufe0f CMU '19",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 634,
+        "friends_count": 268,
+        "listed_count": 0,
+        "created_at": "Sun Nov 27 23:15:57 +0000 2011",
+        "favourites_count": 4021,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3245,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/754025355\/88c9b4df7bd7644c243596ddeeb14e14.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/754025355\/88c9b4df7bd7644c243596ddeeb14e14.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/616628000172281857\/MzizzTEQ_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/616628000172281857\/MzizzTEQ_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/422992625\/1433833952",
+        "profile_link_color": "98F0E9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [{
+          "text": "FIFAWWCFinal",
+          "indices": [50, 63]
+        }, {
+          "text": "USAvJPN",
+          "indices": [64, 72]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "FIFAWWCFinal",
+        "indices": [68, 81]
+      }, {
+        "text": "USAvJPN",
+        "indices": [82, 90]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "LThompson_33",
+        "name": "Lauren Thompson",
+        "id": 422992625,
+        "id_str": "422992625",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:12 +0000 2015",
+    "id": 617781038379433985,
+    "id_str": "617781038379433985",
+    "text": "Love being in Canada for this! #USAvJPN #USA \ud83d\ude4b\ud83c\udffb\ud83d\udc4d\ud83c\udffb\u26bd\ufe0f #SheBelieves #OneMore",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 400102749,
+      "id_str": "400102749",
+      "name": "Christie Ward",
+      "screen_name": "CLW11_DLYS",
+      "location": "Americus, Georgia ",
+      "description": "Asst AD for Compliance\/SWA\/Asst Softball @ Georgia Southwestern. ABAC alum 01, GSW alum 03, John Marshall Law alum 07 #fulltimeDukeBlueDevilfanatic",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 155,
+      "friends_count": 515,
+      "listed_count": 0,
+      "created_at": "Fri Oct 28 14:17:23 +0000 2011",
+      "favourites_count": 1281,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4434,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0A2477",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/355625024\/bbduke_430_107652.jpg",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/355625024\/bbduke_430_107652.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/601845343643377667\/GPpgPbF0_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/601845343643377667\/GPpgPbF0_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/400102749\/1432326087",
+      "profile_link_color": "5B8DF8",
+      "profile_sidebar_border_color": "BBCAFE",
+      "profile_sidebar_fill_color": "061548",
+      "profile_text_color": "59689B",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "09efd2065c8ce28e",
+      "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/09efd2065c8ce28e.json",
+      "place_type": "city",
+      "name": "Surrey",
+      "full_name": "Surrey, British Columbia",
+      "country_code": "CA",
+      "country": "Canada",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-122.958937, 49.001921],
+            [-122.6780348, 49.001921],
+            [-122.6780348, 49.221117],
+            [-122.958937, 49.221117]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [31, 39]
+      }, {
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "SheBelieves",
+        "indices": [52, 64]
+      }, {
+        "text": "OneMore",
+        "indices": [65, 73]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:11 +0000 2015",
+    "id": 617781035472916480,
+    "id_str": "617781035472916480",
+    "text": "I don't normally watch soccer but I will tonight #USAvJPN",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 301723913,
+      "id_str": "301723913",
+      "name": "Wesley Tyson",
+      "screen_name": "TheWesleyTyson",
+      "location": "Knightdale NC",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2618,
+      "friends_count": 2570,
+      "listed_count": 2,
+      "created_at": "Thu May 19 23:21:41 +0000 2011",
+      "favourites_count": 7153,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 32728,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617731165932359680\/O0xCowAN_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617731165932359680\/O0xCowAN_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/301723913\/1424559063",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [49, 57]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:11 +0000 2015",
+    "id": 617781035451854850,
+    "id_str": "617781035451854850",
+    "text": "RT @Juliaa_Sinning: #USAvJPN lets go girls\ud83c\uddfa\ud83c\uddf8",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2915120174,
+      "id_str": "2915120174",
+      "name": "Kaleigh Thompson",
+      "screen_name": "kalesthompson",
+      "location": "",
+      "description": "LCHS | soccer",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 198,
+      "friends_count": 227,
+      "listed_count": 0,
+      "created_at": "Sun Nov 30 23:38:04 +0000 2014",
+      "favourites_count": 622,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2600,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/616454862046232576\/bnkJdyhS_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/616454862046232576\/bnkJdyhS_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2915120174\/1435809267",
+      "profile_link_color": "F5ABB5",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 17:27:13 +0000 2015",
+      "id": 617746568515571712,
+      "id_str": "617746568515571712",
+      "text": "#USAvJPN lets go girls\ud83c\uddfa\ud83c\uddf8",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2941859278,
+        "id_str": "2941859278",
+        "name": "Jules",
+        "screen_name": "Juliaa_Sinning",
+        "location": "",
+        "description": "ctp",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 207,
+        "friends_count": 219,
+        "listed_count": 1,
+        "created_at": "Fri Dec 26 06:49:02 +0000 2014",
+        "favourites_count": 1127,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3543,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/593898297636585472\/3GwRIRH1_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/593898297636585472\/3GwRIRH1_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2941859278\/1435646429",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "c309c6a6f85110cd",
+        "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/c309c6a6f85110cd.json",
+        "place_type": "city",
+        "name": "Clinton",
+        "full_name": "Clinton, MI",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-82.9732981, 42.5392742],
+              [-82.855854, 42.5392742],
+              [-82.855854, 42.630481],
+              [-82.9732981, 42.630481]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [{
+          "text": "USAvJPN",
+          "indices": [0, 8]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [20, 28]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Juliaa_Sinning",
+        "name": "Jules",
+        "id": 2941859278,
+        "id_str": "2941859278",
+        "indices": [3, 18]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:08 +0000 2015",
+    "id": 617781025599561729,
+    "id_str": "617781025599561729",
+    "text": "RT @vj44: RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2167420338,
+      "id_str": "2167420338",
+      "name": "Carol",
+      "screen_name": "WhoMaslany",
+      "location": "Maring\u00e1, Paran\u00e1",
+      "description": "cogumelos azuis",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 260,
+      "friends_count": 290,
+      "listed_count": 2,
+      "created_at": "Thu Oct 31 23:33:27 +0000 2013",
+      "favourites_count": 494,
+      "utc_offset": -7200,
+      "time_zone": "Mid-Atlantic",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6391,
+      "lang": "pt",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FCFCFC",
+      "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000162642929\/QpSbldL8.png",
+      "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000162642929\/QpSbldL8.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/605072740064890880\/P76hypeZ_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/605072740064890880\/P76hypeZ_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2167420338\/1433095655",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:35:47 +0000 2015",
+      "id": 617733624146853888,
+      "id_str": "617733624146853888",
+      "text": "RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 595515713,
+        "id_str": "595515713",
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "location": "Washington, DC",
+        "description": "Senior Advisor to President Barack Obama. Chair of the White House Council on Women and Girls. http:\/\/t.co\/eVVzoBb3Zr",
+        "url": "http:\/\/wh.gov\/zd9",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/wh.gov\/zd9",
+              "expanded_url": null,
+              "indices": [0, 17]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/eVVzoBb3Zr",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [95, 117]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 98293,
+        "friends_count": 436,
+        "listed_count": 1594,
+        "created_at": "Thu May 31 14:10:41 +0000 2012",
+        "favourites_count": 317,
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3349,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/595515713\/1401375597",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1032,
+      "favorite_count": 591,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [30, 34]
+        }, {
+          "text": "USWNT",
+          "indices": [55, 61]
+        }, {
+          "text": "USAvJPN",
+          "indices": [62, 70]
+        }, {
+          "text": "SheBelieves",
+          "indices": [71, 83]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617733620107726848,
+          "id_str": "617733620107726848",
+          "indices": [84, 106],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "url": "http:\/\/t.co\/dv7NFq6mgq",
+          "display_url": "pic.twitter.com\/dv7NFq6mgq",
+          "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 409,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 232,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1023,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1032,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "USWNT",
+        "indices": [65, 71]
+      }, {
+        "text": "USAvJPN",
+        "indices": [72, 80]
+      }, {
+        "text": "SheBelieves",
+        "indices": [81, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vj44",
+        "name": "Valerie Jarrett",
+        "id": 595515713,
+        "id_str": "595515713",
+        "indices": [3, 8]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617733620107726848,
+        "id_str": "617733620107726848",
+        "indices": [94, 116],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "url": "http:\/\/t.co\/dv7NFq6mgq",
+        "display_url": "pic.twitter.com\/dv7NFq6mgq",
+        "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 409,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 232,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1023,
+            "h": 699,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617733624146853888,
+        "source_status_id_str": "617733624146853888",
+        "source_user_id": 595515713,
+        "source_user_id_str": "595515713"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:07 +0000 2015",
+    "id": 617781019010310144,
+    "id_str": "617781019010310144",
+    "text": "RT @vj44: RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+    "source": "\u003ca href=\"http:\/\/lissted.com\" rel=\"nofollow\"\u003eLissted\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2795517045,
+      "id_str": "2795517045",
+      "name": "PoliticsUSDistilled",
+      "screen_name": "PoliticsUSTD",
+      "location": "",
+      "description": "Finding the best US Politics community tweets. Algorithm RTs ~ 400\/day. Related to @tweetsdistilled, a @Lissted experiment. Contact @AdParker for more info",
+      "url": "http:\/\/t.co\/GDBQKF42x5",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/GDBQKF42x5",
+            "expanded_url": "http:\/\/lissted.com",
+            "display_url": "lissted.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 274,
+      "friends_count": 0,
+      "listed_count": 40,
+      "created_at": "Tue Sep 30 16:53:36 +0000 2014",
+      "favourites_count": 0,
+      "utc_offset": 3600,
+      "time_zone": "London",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 87211,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/516994493384372224\/eGhobh9v_normal.jpeg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/516994493384372224\/eGhobh9v_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 16:35:47 +0000 2015",
+      "id": 617733624146853888,
+      "id_str": "617733624146853888",
+      "text": "RT if you're cheering on Team #USA tonight at 7 PM ET! #USWNT #USAvJPN #SheBelieves http:\/\/t.co\/dv7NFq6mgq",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 595515713,
+        "id_str": "595515713",
+        "name": "Valerie Jarrett",
+        "screen_name": "vj44",
+        "location": "Washington, DC",
+        "description": "Senior Advisor to President Barack Obama. Chair of the White House Council on Women and Girls. http:\/\/t.co\/eVVzoBb3Zr",
+        "url": "http:\/\/wh.gov\/zd9",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/wh.gov\/zd9",
+              "expanded_url": null,
+              "indices": [0, 17]
+            }]
+          },
+          "description": {
+            "urls": [{
+              "url": "http:\/\/t.co\/eVVzoBb3Zr",
+              "expanded_url": "http:\/\/wh.gov\/privacy",
+              "display_url": "wh.gov\/privacy",
+              "indices": [95, 117]
+            }]
+          }
+        },
+        "protected": false,
+        "followers_count": 98293,
+        "friends_count": 436,
+        "listed_count": 1594,
+        "created_at": "Thu May 31 14:10:41 +0000 2012",
+        "favourites_count": 317,
+        "utc_offset": -10800,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3349,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/570140642\/7wsa63n4x39jshm56kub.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617530299694600192\/o19DtnEN_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/595515713\/1401375597",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1024,
+      "favorite_count": 584,
+      "entities": {
+        "hashtags": [{
+          "text": "USA",
+          "indices": [30, 34]
+        }, {
+          "text": "USWNT",
+          "indices": [55, 61]
+        }, {
+          "text": "USAvJPN",
+          "indices": [62, 70]
+        }, {
+          "text": "SheBelieves",
+          "indices": [71, 83]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617733620107726848,
+          "id_str": "617733620107726848",
+          "indices": [84, 106],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+          "url": "http:\/\/t.co\/dv7NFq6mgq",
+          "display_url": "pic.twitter.com\/dv7NFq6mgq",
+          "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 409,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 232,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1023,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1024,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USA",
+        "indices": [40, 44]
+      }, {
+        "text": "USWNT",
+        "indices": [65, 71]
+      }, {
+        "text": "USAvJPN",
+        "indices": [72, 80]
+      }, {
+        "text": "SheBelieves",
+        "indices": [81, 93]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "vj44",
+        "name": "Valerie Jarrett",
+        "id": 595515713,
+        "id_str": "595515713",
+        "indices": [3, 8]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617733620107726848,
+        "id_str": "617733620107726848",
+        "indices": [94, 116],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJKhdGBWUAAXBn1.jpg",
+        "url": "http:\/\/t.co\/dv7NFq6mgq",
+        "display_url": "pic.twitter.com\/dv7NFq6mgq",
+        "expanded_url": "http:\/\/twitter.com\/vj44\/status\/617733624146853888\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 600,
+            "h": 409,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 340,
+            "h": 232,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1023,
+            "h": 699,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617733624146853888,
+        "source_status_id_str": "617733624146853888",
+        "source_user_id": 595515713,
+        "source_user_id_str": "595515713"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:07 +0000 2015",
+    "id": 617781018855088130,
+    "id_str": "617781018855088130",
+    "text": "Can you Guess This Celeb Mashup? #ImThatGirlfriend #greekreferendum #ThingsYouSaidAsASceneKid #USAvJPN http:\/\/t.co\/tDx0VLj4lo",
+    "source": "\u003ca href=\"http:\/\/chickenrollapp.com\" rel=\"nofollow\"\u003eMadi Test Tweet\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3342334047,
+      "id_str": "3342334047",
+      "name": "Wayne Holloway",
+      "screen_name": "WayneHalloway",
+      "location": "United States",
+      "description": "A champion is afraid of losing. Everyone else is afraid of winning.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9,
+      "friends_count": 40,
+      "listed_count": 0,
+      "created_at": "Tue Jun 23 05:53:27 +0000 2015",
+      "favourites_count": 64,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/613224258454556672\/7XuhyKjw_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/613224258454556672\/7XuhyKjw_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3342334047\/1435039114",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [{
+        "text": "ImThatGirlfriend",
+        "indices": [33, 50]
+      }, {
+        "text": "greekreferendum",
+        "indices": [51, 67]
+      }, {
+        "text": "ThingsYouSaidAsASceneKid",
+        "indices": [68, 93]
+      }, {
+        "text": "USAvJPN",
+        "indices": [94, 102]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [{
+        "id": 617781006171570176,
+        "id_str": "617781006171570176",
+        "indices": [103, 125],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLMjU3XAAAExcq.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLMjU3XAAAExcq.jpg",
+        "url": "http:\/\/t.co\/tDx0VLj4lo",
+        "display_url": "pic.twitter.com\/tDx0VLj4lo",
+        "expanded_url": "http:\/\/twitter.com\/WayneHalloway\/status\/617781018855088130\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 400,
+            "h": 400,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 400,
+            "h": 400,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:07 +0000 2015",
+    "id": 617781017387118592,
+    "id_str": "617781017387118592",
+    "text": "Can you Guess This App Logo? #ImThatGirlfriend #greekreferendum #ThingsYouSaidAsASceneKid #USAvJPN http:\/\/t.co\/fgGo9xKphS",
+    "source": "\u003ca href=\"http:\/\/chickenrollapp.com\" rel=\"nofollow\"\u003eMadi Test Tweet\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3342470320,
+      "id_str": "3342470320",
+      "name": "Mary Pugh",
+      "screen_name": "MaryPugh23",
+      "location": "United States",
+      "description": "A smile is happiness you'll find right under your nose.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4,
+      "friends_count": 40,
+      "listed_count": 0,
+      "created_at": "Tue Jun 23 07:13:12 +0000 2015",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/613245403023040512\/mY84kMig_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/613245403023040512\/mY84kMig_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3342470320\/1435044167",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [{
+        "text": "ImThatGirlfriend",
+        "indices": [29, 46]
+      }, {
+        "text": "greekreferendum",
+        "indices": [47, 63]
+      }, {
+        "text": "ThingsYouSaidAsASceneKid",
+        "indices": [64, 89]
+      }, {
+        "text": "USAvJPN",
+        "indices": [90, 98]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [{
+        "id": 617781006620336129,
+        "id_str": "617781006620336129",
+        "indices": [99, 121],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLMjWiWoAESZTb.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLMjWiWoAESZTb.jpg",
+        "url": "http:\/\/t.co\/fgGo9xKphS",
+        "display_url": "pic.twitter.com\/fgGo9xKphS",
+        "expanded_url": "http:\/\/twitter.com\/MaryPugh23\/status\/617781017387118592\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 340,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 600,
+            "resize": "fit"
+          }
+        }
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:06 +0000 2015",
+    "id": 617781016506277888,
+    "id_str": "617781016506277888",
+    "text": "RT @Gotham: One Nation. One Team. The World Cup FINALS air TONIGHT at 7pm ET \/ 4pm PT! #USAvJPN #Gotham http:\/\/t.co\/crurkspwhL",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 334767431,
+      "id_str": "334767431",
+      "name": "Austin Winchester",
+      "screen_name": "WinchesterO_O",
+      "location": "",
+      "description": "Just livin life. #ArrowHead #HouseofEl #BatFam #FlashFollower #WinchesterBrother",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 228,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Wed Jul 13 16:52:29 +0000 2011",
+      "favourites_count": 2366,
+      "utc_offset": -10800,
+      "time_zone": "Atlantic Time (Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4000,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/591799175232106496\/YWewZ5hY_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/591799175232106496\/YWewZ5hY_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/334767431\/1429930892",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:30:03 +0000 2015",
+      "id": 617777481370578945,
+      "id_str": "617777481370578945",
+      "text": "One Nation. One Team. The World Cup FINALS air TONIGHT at 7pm ET \/ 4pm PT! #USAvJPN #Gotham http:\/\/t.co\/crurkspwhL",
+      "source": "\u003ca href=\"http:\/\/adobe.com\" rel=\"nofollow\"\u003eAdobe\u00ae Social\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1948294874,
+        "id_str": "1948294874",
+        "name": "Gotham",
+        "screen_name": "Gotham",
+        "location": "FOX",
+        "description": "The Official Twitter for #gotham on @FOXTV!",
+        "url": "http:\/\/t.co\/tniTHm816B",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/tniTHm816B",
+              "expanded_url": "http:\/\/fox.com\/Gotham",
+              "display_url": "fox.com\/Gotham",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 288858,
+        "friends_count": 772,
+        "listed_count": 1600,
+        "created_at": "Wed Oct 09 01:22:03 +0000 2013",
+        "favourites_count": 793,
+        "utc_offset": -25200,
+        "time_zone": "Arizona",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 8818,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/443176152035622912\/g7JBHLKl.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/443176152035622912\/g7JBHLKl.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/594200811762102272\/WEq6Keiq_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/594200811762102272\/WEq6Keiq_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1948294874\/1410831014",
+        "profile_link_color": "7E756F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 55,
+      "favorite_count": 148,
+      "entities": {
+        "hashtags": [{
+          "text": "USAvJPN",
+          "indices": [75, 83]
+        }, {
+          "text": "Gotham",
+          "indices": [84, 91]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 617777481290887168,
+          "id_str": "617777481290887168",
+          "indices": [92, 114],
+          "media_url": "http:\/\/pbs.twimg.com\/media\/CJLJWJqUMAAswbd.jpg",
+          "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLJWJqUMAAswbd.jpg",
+          "url": "http:\/\/t.co\/crurkspwhL",
+          "display_url": "pic.twitter.com\/crurkspwhL",
+          "expanded_url": "http:\/\/twitter.com\/Gotham\/status\/617777481370578945\/photo\/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1535,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 509,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 899,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 55,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [87, 95]
+      }, {
+        "text": "Gotham",
+        "indices": [96, 103]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "Gotham",
+        "name": "Gotham",
+        "id": 1948294874,
+        "id_str": "1948294874",
+        "indices": [3, 10]
+      }],
+      "urls": [],
+      "media": [{
+        "id": 617777481290887168,
+        "id_str": "617777481290887168",
+        "indices": [104, 126],
+        "media_url": "http:\/\/pbs.twimg.com\/media\/CJLJWJqUMAAswbd.jpg",
+        "media_url_https": "https:\/\/pbs.twimg.com\/media\/CJLJWJqUMAAswbd.jpg",
+        "url": "http:\/\/t.co\/crurkspwhL",
+        "display_url": "pic.twitter.com\/crurkspwhL",
+        "expanded_url": "http:\/\/twitter.com\/Gotham\/status\/617777481370578945\/photo\/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 1535,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 340,
+            "h": 509,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 899,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 617777481370578945,
+        "source_status_id_str": "617777481370578945",
+        "source_user_id": 1948294874,
+        "source_user_id_str": "1948294874"
+      }]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:05 +0000 2015",
+    "id": 617781010089017345,
+    "id_str": "617781010089017345",
+    "text": "#PassTheLove #USAvJPN LET'S GO MAMAS!!!! LETS BRING THE CUP HOME!!!",
+    "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3001543469,
+      "id_str": "3001543469",
+      "name": "Alyssa Nicole ",
+      "screen_name": "lyssnikki16",
+      "location": "",
+      "description": "A Girl Full of DREAMS!! Fashion Designer in the making... Want to Act, Sing, Voice,and own a Fashion Business Someday!!!",
+      "url": "http:\/\/t.co\/0IjtL0uMko",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "http:\/\/t.co\/0IjtL0uMko",
+            "expanded_url": "http:\/\/lyssnikki16.polyvore.com",
+            "display_url": "lyssnikki16.polyvore.com",
+            "indices": [0, 22]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 33,
+      "friends_count": 42,
+      "listed_count": 1,
+      "created_at": "Tue Jan 27 15:41:09 +0000 2015",
+      "favourites_count": 3810,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 975,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme11\/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/560116216870608897\/ngvw8BTJ_normal.png",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/560116216870608897\/ngvw8BTJ_normal.png",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3001543469\/1422377227",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [{
+        "text": "PassTheLove",
+        "indices": [0, 12]
+      }, {
+        "text": "USAvJPN",
+        "indices": [13, 21]
+      }],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:02 +0000 2015",
+    "id": 617780999951372292,
+    "id_str": "617780999951372292",
+    "text": "RT @__arianna2: so excited for #USAvJPN!!! \ud83c\uddfa\ud83c\uddf8",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2431357886,
+      "id_str": "2431357886",
+      "name": "Eliud ",
+      "screen_name": "cavazos_eliud",
+      "location": "",
+      "description": "God is great \u2764 Basketball player | #2 | Explosion Basketball",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 237,
+      "friends_count": 162,
+      "listed_count": 0,
+      "created_at": "Mon Apr 07 03:01:44 +0000 2014",
+      "favourites_count": 1821,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2918,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/609095590652162048\/_oCm2rmP_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/609095590652162048\/_oCm2rmP_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2431357886\/1430058869",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:42:29 +0000 2015",
+      "id": 617780609226661888,
+      "id_str": "617780609226661888",
+      "text": "so excited for #USAvJPN!!! \ud83c\uddfa\ud83c\uddf8",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1970205410,
+        "id_str": "1970205410",
+        "name": "otra ari 6",
+        "screen_name": "__arianna2",
+        "location": "",
+        "description": "ask me if i give a motherfuck ?!!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 234,
+        "friends_count": 212,
+        "listed_count": 0,
+        "created_at": "Sat Oct 19 03:10:05 +0000 2013",
+        "favourites_count": 7417,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4636,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/614589194569027588\/TfTei5lM_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/614589194569027588\/TfTei5lM_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1970205410\/1435463196",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [{
+          "text": "USAvJPN",
+          "indices": [15, 23]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [31, 39]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "__arianna2",
+        "name": "otra ari 6",
+        "id": 1970205410,
+        "id_str": "1970205410",
+        "indices": [3, 14]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }, {
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "created_at": "Sun Jul 05 19:44:01 +0000 2015",
+    "id": 617780995585142784,
+    "id_str": "617780995585142784",
+    "text": "RT @gfernandes42: WORLD CUP FINAL TONIGHT LETS GO\ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f #USAvJPN",
+    "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3302401739,
+      "id_str": "3302401739",
+      "name": "Nick Jordan",
+      "screen_name": "nick_401",
+      "location": "",
+      "description": "5\/12\/15",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 27,
+      "friends_count": 116,
+      "listed_count": 0,
+      "created_at": "Fri May 29 03:14:45 +0000 2015",
+      "favourites_count": 18,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 45,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/604124072356810754\/DZOcehMW_normal.jpg",
+      "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/604124072356810754\/DZOcehMW_normal.jpg",
+      "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3302401739\/1435893339",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "created_at": "Sun Jul 05 19:00:48 +0000 2015",
+      "id": 617770120128106497,
+      "id_str": "617770120128106497",
+      "text": "WORLD CUP FINAL TONIGHT LETS GO\ud83c\uddfa\ud83c\uddf8\u26bd\ufe0f #USAvJPN",
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2373406503,
+        "id_str": "2373406503",
+        "name": "Gabby Fernandes",
+        "screen_name": "gfernandes42",
+        "location": "",
+        "description": "\u26bd\ufe0f",
+        "url": "http:\/\/t.co\/YKdcotVIth",
+        "entities": {
+          "url": {
+            "urls": [{
+              "url": "http:\/\/t.co\/YKdcotVIth",
+              "expanded_url": "http:\/\/instagram.com\/gabbycr10",
+              "display_url": "instagram.com\/gabbycr10",
+              "indices": [0, 22]
+            }]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 332,
+        "friends_count": 245,
+        "listed_count": 0,
+        "created_at": "Sat Mar 01 16:08:42 +0000 2014",
+        "favourites_count": 10072,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3088,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/616775355135868928\/v6btZvcW_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/616775355135868928\/v6btZvcW_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2373406503\/1435721911",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 13,
+      "entities": {
+        "hashtags": [{
+          "text": "USAvJPN",
+          "indices": [36, 44]
+        }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [{
+        "text": "USAvJPN",
+        "indices": [54, 62]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "gfernandes42",
+        "name": "Gabby Fernandes",
+        "id": 2373406503,
+        "id_str": "2373406503",
+        "indices": [3, 16]
+      }],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }],
+  "search_metadata": {
+    "completed_in": 0.036,
+    "max_id": 617781106306322432,
+    "max_id_str": "617781106306322432",
+    "next_results": "?max_id=617780995585142783&q=%2523USAvJPN&count=20&include_entities=1",
+    "query": "%2523USAvJPN",
+    "refresh_url": "?since_id=617781106306322432&q=%2523USAvJPN&include_entities=1",
+    "count": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
